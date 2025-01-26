@@ -1,2 +1,2 @@
-a = "Hello, World!"
-print(a[1])
+a = "Hello, World! TuhTuhTuh"
+print(a[7])
