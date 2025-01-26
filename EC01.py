@@ -4,7 +4,8 @@ from collections import defaultdict
 # Read the CSV file and process data
 def process_friend_count(file_name):
     data = defaultdict(lambda: {"users": 0, "total_friends": 0})
-
+    var = 1 + 4
+    print(var)
     try:
         with open(file_name, 'r') as file:
             reader = csv.reader(file)
