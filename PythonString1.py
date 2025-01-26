@@ -1,2 +1,3 @@
-a = "Hello, World!"
-print(a[1])
+#Changing locally
+a = "Hello, World! YuhYuhYuh"
+print(a[5])
