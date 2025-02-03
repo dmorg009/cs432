@@ -34,7 +34,7 @@ Draw the resulting directed graph and list the nodes (in alphabetical order) tha
 
 ## Answer
 
-![\label{fig:directed-graph}](CS432 HW1 Q1.png)
+![\label{fig:directed-graph}](CS432HW1Q1.png)
 
 - SCC:
   - A
