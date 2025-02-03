@@ -9,7 +9,8 @@
 # Q1
 
 Now consider the following links:
-'''text
+
+```text
 A --> B
 B --> A
 B --> C
@@ -27,7 +28,8 @@ K --> I
 M --> A
 N --> L
 O --> J
-'''
+```
+
 Draw the resulting directed graph and list the nodes (in alphabetical order) that are each category.
 
 ## Answer
