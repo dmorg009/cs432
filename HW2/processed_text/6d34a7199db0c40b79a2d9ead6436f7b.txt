@@ -1,0 +1,48 @@
+Enhanced visualization capacity by implementing charts
+Improved Decisions Modules compatibility with V9 for customers upgrading from V8.
+Natively implemented check-in process to improve storing the no-code projects into repos.
+Improved incorrect ligatures in the platform in order to support foreign languages.
+Technologies used: ReactTS, TypeScript, JavaScript (ES6+), C#, .Net Core, HTML5, CSS, MSSQL, POSTGRES, Gitea
+Software Engineer
+Hampton, VA
+March 2022 - December 2023
+Orchestrated version control (Git) across all agency web apps in the local network, streamlining team collaboration.
+Engineered a charter license purchase system, automating the antiquated paper-based process and reducing processing time from 21 days to just 30 minutes.
+Implemented a barcode-driven inventory tracking system for 3000 unique items, streamlining operations and increasing visibility.
+Crafted a digital FOIA Tracking System, systemizing outdated paper-based processes and achieving 90% efficiency and accuracy gains.
+Technologies used: TypeScript, JavaScript (ES6+), Php, HTML5, CSS(Flexbox, Grid), Linux, MySQL, Apache HTTP Server, Git
+Graduate Research Assistant
+Norfolk, VA
+January 2021 - March 2022
+Explored Text Mining and Natural Language Processing. Built a meta-data extracting framework and developed an Electronic Thesis & Dissertations repository with 500K fulltext articles. I used python, RestApi, OAI-PMH, MySql extensively for my research work.
+Developed TransParsCit - a Transformer based citation parser for Master's thesis
+Engineered accessible Chrome Extensions for visually impaired users with JavaScript, Apps Script, HTML, and CSS.
+Graduate Teaching Assistant
+Norfolk, VA
+January 2020 - March 2022
+Grade weekly assignments on CS355 and assist students with their web projects on the Internet Programming course (CS312).
+Software Developer
+Dhaka Office, Bangladesh
+May 2017 - December 2019
+Integrated Google Map JavaScript API with the web project which helps to find boats from the locations of multiple different time zones.
+Collaborated with the marketing team to implement SEO technique that placed the website on the 1st page from the 17th page in Google search from Mallorca.
+Expedited our development following Continuous Integration/Continuous Delivery and clipped the production errors by 95% by continuous code reviews.
+Built the project with a mobile-first approach and developed PWA that saved millions on investing resources to develop projects in the new platforms.
+Slashed functional bugs 90% by implementing unit tests on the REST API backend.
+Technologies used: JavaScript, JQuery, HTML5, CSS(Flexbox, Grid), Sass, C#, .Net Core, SQL Server, Azure, CI/CD, Git, BEM, REST API, Unit Test, Jmeter(Load Test)
+Voluntary Works
+MS Student Representative of CS Department
+College of Science, ODU
+Norfolk, Virginia
+October 2020 - Till Date
+Voice to the graduate students of CS department and bring up the issues to the Dean of College of Science.
+Marketing Manager
+Norfolk, Virginia
+May 2020 - Till Date
+Prepare events, create flyers, publicise events and news about the deparment. Collaborate with other society members and maintain society social media.
+Instructor
+Student ThinSat Research Summer(STRS) Camp
+Norfolk, Virginia
+August 2020
+Helped the lead instructor to take the class online and evaluate answers of the students on different activities.
+Vice Precident

@@ -1,0 +1,14 @@
+Personal
+About Me...
+I joined the Computer Science department at Old Dominion University
+in 2002.  I worked at NASA
+Langley Research Center from 1991-2002.  Through a NASA
+fellowship, I spent the 2000-2001 academic year at the School of Information and Library
+Science , University of North Carolina at Chapel Hill.
+I am active in the Open Archives community and am an editor
+of the OAI-PMH , OAI-ORE , Memento , and ResourceSync specifications.  I have developed many digital libraries,
+including the NASA
+Technical Report Server .  In 2007 I received an NSF
+CAREER award .  My research interests include web science,
+repository-object interaction and digital preservation.  Further
+information about me can be found at:

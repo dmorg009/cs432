@@ -1,0 +1,8 @@
+Dr. Sawood Alam <salam@cs.odu.edu>
+The CS 431/531 Web Server Design course focuses on complete understanding of the Hypertext Transfer Protocol (HTTP) and implementation of a web server (not a web application).
+The course is programming intensive, prerequisites include the understanding of network (socket) programming.
+Students in this course decide their own implementation language within the Unix/Linux environment; the lectures are about HTTP and not about any particular programming language.
+Location: Online and on-campus E&CS 3102
+Time: Wednesdays, 4:20-7:00pm (Eastern Time)
+Office Hours: Wednesdays, 3:00-4:00pm (Eastern Time) and by appointment (E&CS 3102 and online)
+Recent/Upcoming Lectures

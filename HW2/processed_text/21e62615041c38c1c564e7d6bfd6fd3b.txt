@@ -1,0 +1,40 @@
+Email: mferd002@odu.edu dblp Profile GitHub Profile LinkedIn Profile Google Scholar Profile Twitter Profile
+I am currently a PhD candidate in the Department of Computer Science at Old Dominion University, where I conduct research within the Web Science and Digital Libraries Research Group. My scholarly interests center on the intersection of human-computer interaction and machine learning, with a specific emphasis on accessibility. Motivated by the goal of creating inclusive technologies for individuals with disabilities, I strive to translate theoretical research findings into practical solutions that meet the needs of diverse user populations. My responsibilities also include serving as a graduate teaching assistant, which has allowed me to refine my pedagogical skills and mentor emerging scholars in computer science. Looking ahead, I am eager to leverage these combined research, teaching, and leadership experiences to pursue an academic or industry-oriented role focused on advancing equitable digital solutions. By continuing to explore innovative applications of machine learning in accessibility contexts, I aim to contribute substantively to the development of user-centered technologies that benefit society at large.
+Here is my Resume and CV .
+News
+I'll serve as a Program Committee Member for the ACM CHI 2025 (Late-Breaking Work).
+Jan 2025
+Became an ACM Certified Reviewer ! Certificate available here .
+Jan 2025
+I'll serve as a Program Committee Member for the ACM ETRA 2025 (Short Paper).
+Oct 2024
+I'll serve as an Associate Chair for the ACM CSCW 2025 for October Cycle.
+Sep 2024
+One paper is accepted to the ACM Conference on Hypertext and Social Media .
+Jun 2024
+I'll serve as an Associate Chair for the ACM CSCW 2025 (Research track and Posters).
+May 2024
+I'll serve as an Associate Chair for the ACM CHI PLAY 2024 (Work in Progress).
+May 2024
+Instructed the Python Programming in Data Science Boot Camp 2024 .
+Apr 2024
+I'll serve as a judge for the Virginia State Science and Engineering Fair 2024 .
+Jan 2024
+I'll serve as a Program Committee member for the ICWSM 2024 .
+Jul 2023
+I'll serve as a Program Committee member for the ICMI 2023 (Late Breaking Results track).
+Jan 2023
+One paper is accepted to the ACM Transactions on Interactive Intelligent Systems .
+Dec 2022
+I'll serve as a Program Committee member for the EICS 2023 (Late Breaking Results track).
+May 2022
+Instructed the Python Programming in Data Science Boot Camp 2022 .
+Apr 2022
+Present our work in ODU Research Group Expo 2022 .
+Apr 2022
+One paper is accepted to the 30th ACM Conference on User Modeling, Adaptation and Personalization in Barcelona, Spain.
+Feb 2022
+I was awarded the Dr. Hussein Abdel-Wahab Memorial graduate fellowship.
+Dec 2021
+Our paper is accepted to the 27th Annual Conference on Intelligent User Interfaces in Finland.
+Apr 2021

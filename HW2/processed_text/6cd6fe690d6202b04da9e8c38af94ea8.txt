@@ -1,0 +1,114 @@
+How Do I Contact You?
+Purpose and Scope
+The University of North Carolina at Chapel Hill (“UNC-Chapel Hill”, the “University”, “we”, “us”, or “our”) provides information and services to students, employees, and the public. We are committed to protecting the personal information and the security of our users and being transparent about the information we hold.
+This Statement describes what personal information UNC-Chapel Hill may collect about you and how the University may use it, as well as the choices that are available to you regarding the use of the information you provide.
+This Online Privacy Statement applies to the information that we collect, process, use, share, and transfer when you visit UNC-Chapel Hill’s main website ( www.unc.edu ) and other websites, desktop applications, or mobile applications, that we own or control and that link or refer to this Privacy Statement (together, the “Sites”).
+Unless otherwise indicated on a specific Site, UNC-Chapel Hill is the data controller for all information collected under this Statement. Contact information for UNC-Chapel Hill is listed at the end of this Statement.
+We are providing this Statement to help you understand our privacy practices and make informed decisions when using our Sites. This Statement is a part of the UNC-Chapel Hill Terms of Use, which is binding on all website users. This Statement, along with the Terms of Use, govern your visit to the Sites. When you access our Sites, you acknowledge that you have read this Statement and understand and agree with its contents.
+Personal Information and Sensitive Personal Information We Collect and Process; Legal Basis for Processing
+UNC-Chapel Hill collects personal information voluntarily supplied by you when you visit our Sites and automatically collected information collected as you navigate our Sites. When you access or use the Sites, we may collect and process the following types of information from you:
+“Personal Information” is any information that we can reasonably use to identify you. If you are located in the European Economic Area (“EEA”), Personal Information includes all “Personal Data” as defined under EEA laws.
+“Profiling” is any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location or movements.
+“Sensitive Personal Information” includes special categories of Personal Information (e.g., racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data, data concerning health, and data concerning a natural person’s sex life or sexual orientation) for which applicable law provides enhanced protections.
+The table below describes the Personal Information and Sensitive Personal Information that we collect, why we collect it, and our legal basis for processing it.
+Purpose of Processing
+Categories of Personal Information and Sensitive Personal Information
+Legal Basis
+Admissions. As part of the graduate and undergraduate admissions process, we collect applicant Personal Information to evaluate applications.
+Personal Information. Name, address, contact details, demographic information, educational history, reference letters, and other relevant information as part of the application package.Sensitive Personal Information. race/ethnicity
+Legitimate Interest: Personal Information collected through the graduate or undergraduate application is necessary to evaluate candidates for admissions and for our internal statistical and analytics purposes.
+Consent:Processing of Sensitive Personal Information for purposes stated above.
+Financial Aid. To evaluate and determine whether financial aid opportunities are available to an applicant
+Personal Information. Name, address, contact details, demographic information, salary history, tax forms and other relevant information to evaluate financial aid eligibility and opportunities.
+Legitimate Interest: Personal Information collected through the financial aid application is necessary to evaluate whether the applicant is eligible to receive financial aid and for our internal statistical and analytics purposes.
+Consent: Processing of Sensitive Personal Information for purposes stated above
+Course Registration. To support course registration
+Personal Information. Name, UNC PID, contact information
+Legitimate Interest: Personal Information collected for matriculated students, staff, faculty and members of the public, as appropriate for the course, to register in courses or classes
+Housing & Dining Services. To process requests for housing and dining services
+Personal Information. Name, UNC PID, contact information, dietary information
+Sensitive Personal Information. Disability and accommodation information
+Legitimate Interest: Personal Information collected to facilitate housing requests and for available meal plans
+Online Education & Instructional Programs. To provide online/hybrid training, online/hybrid academic courses, and other online/hybrid educational programs
+Personal Information. Name, UNC PID, contact information, demographic information, platform usage and interaction, student-provided data and content
+Legitimate Interest: To facilitate provision, administration, instruction, and quality improvement of platform use, courses, learning, and teaching/instruction to matriculated students, staff, faculty, and members of the public, as appropriate for the course
+Research Activities. To enroll interested individuals in research opportunities
+Personal Information. Name, contact information
+Legitimate Interest: Upon request from the individual, inform registrants about research opportunities
+Wellness Programs. To enroll in wellness programs
+Personal Information. Name, UNC PID
+Legitimate Interest: For eligible individuals interested in participating in a variety of wellness programs, courses, activities, facilitate enrollment and communications about the programs
+Contract: If there is a contract for participation in wellness programs, Personal Information is processed pursuant to that contract
+Employment Applications. To process employment applications
+Personal Information. Name, UNC PID (if available), demographic information, resumes, credentials/licenses, military status, employment history, criminal records, background records
+Legitimate Interest: For individuals interested in employment opportunities, processing applications
+Human Resources/Employment Activities.To perform human resources and other employment-related activities, including notices, forms, payments, and tax withholdings.
+Personal Information. Name, address, phone number, email, UNC PID, demographic information (e.g., age, gender), military status, payroll information (bank account information), social security number, tax identification number, insurance information, next-of-kin and emergency contact information, Personal Information about dependents, family members next of kin or beneficiaries of insurance or other benefits provided by UNC-Chapel Hill, photographs, performance reviews, criminal background
+Sensitive Personal Information.Nationality, race, ethnicity, citizenship, health information (drug tests, vaccination records), disability and accommodation information
+Legitimate Interest: To pursue legitimate interests in managing our operations as a global organization and to ensure the effective and efficient business operations.
+Contract: If there is a contract for employment, Personal Information is processed pursuant to that contract.
+Legal Requirements:To help us comply with legal obligations to which we are subject.
+Consent:To process transactions requested by you.
+Visa Applications. To process visa applications
+Personal Information. Name, demographic information, financial information, passport number
+Legal Requirements
+Donation & Gift Activities. To request and receive donations, and assess donor and prospective donor giving activities
+Personal Information. Name, contact information, demographic and biographic information, affiliation to UNC-Chapel Hill, giving history, payment information
+Legitimate Interest: To collect and process donations/gifts and donor and prospective donor information
+Alumni Activities.To request alumni profile updates, connect you with UNC-Chapel Hill, other alumni, UNC-Chapel Hill students and potential students and register to attend alumni events.
+Personal Information. Name, contact information, demographic and biographic information, affiliation to UNC-Chapel Hill,
+Legitimate Interest:To collect and process alumni information.
+Contract: To process transactions for alumni events
+Brochures & Requested Information. To receive brochures or other information
+Personal Information. Name, contact information
+Legitimate Interest: To send brochures or other requested information
+Ticket Purchases. To purchase tickets to events
+Personal Information. Name, UNC PID (if available), contact information
+Contract: To process ticket payment for a variety of events
+Event Registration. For event registration
+Personal Information. Name, UNC PID (if available), contact information, dietary information
+Sensitive Personal Information. Disability and accommodation information
+Legitimate Interest: To process registration for sports, cultural, educational and other university events
+Parking. To purchase parking passes and permits
+Personal Information. Name, UNC PID, contact information
+Contract: To facilitate payments for parking passes and permits
+Service Requests. To submit requests for services (e.g., IT, help desk, help line, CAPS, etc.)
+Personal Information. Name, UNC PID, contact information, demographic and biographic, information, platform usage and interaction, user-provided data and content
+Legitimate Interest: To process service requests from students, staff and faculty
+Contract: If there is a contract that governs your use of such services, Personal Information is processed pursuant to that contract
+Site Use Information
+Personal Information.See “Cookie Statement”
+Legitimate Interest:Cookies are used to make your experience on our Sites more personal and easier to use and to help us operate and improve the Sites
+Consent:Use of analytics
+Personal Information. Name, contact information, university affiliation
+Legitimate Interest: For websites that require registration for access, to facilitate the registration
+Travel Sites
+Personal Information. Name, UNC PID, contact information, passport number, loyalty membership information, emergency contacts
+Legitimate Interest: To facilitate travel arrangements and coordination for students and affiliated travelers through UNC-Chapel Hill programs
+Contract: If there is a contract that governs your use of travel sites, Personal Information is processed pursuant to that contract
+Information We Collect from Third Parties and Combining of Information
+In addition to the information you provide us directly, we may obtain certain Personal Information about you from third-party sources, which we may use to serve our legitimate interests, comply with legal obligations, perform contracts, or in some cases, in accordance with your consent. Some of these third parties may have Personal Information about you that we may not otherwise have (e.g., test scores, recommendations) and may share some or all of this information with us, such as:
+Service Providers and Contractors: We use service providers and contractors (e.g., for payment processors, analytics, donor prospects), to provide additional information to UNC-Chapel Hill or perform services on our behalf.
+Schools, References, Family Members, and Education Partners (e.g., The Common Application, Inc., Law School Admissions Council, The College Board, etc.): We may obtain Personal Information about you as part of an application package for prospective undergraduate and graduate students.
+We may receive additional Personal Information from third-party sources and public databases, which we may append to existing Personal Information we have obtained directly from you. We may use this combined information to process transactions or services that you have requested (e.g., admissions, employment, donations, etc.).
+How We Use Your Information
+We use the information we collect on our Sites in one or more of the following ways:
+To administer our Sites, including Site protection and improvement, account management, customer support, communication, and market analysis;
+For marketing, including communicating with you about UNC-Chapel Hill events, programs, or other offerings that we think may be of interest to you;
+For recruiting candidates for employment;
+To collect and process donations to UNC-Chapel Hill;
+Processing graduate and undergraduate applications, financial aid, housing, and other student services;
+Where we have a legitimate interest as described in the section above, “ Personal Information and Sensitive Personal Information We Collect and Process; Legal Basis For Processing ”;
+When required by law to do so, or to comply with and enforce legal requirements, agreements, and policies;
+For other purposes disclosed to you at the time you provide Personal Information to us.
+When and How We Share Your Personal Information
+We share your Personal Information internally at UNC-Chapel Hill to facilitate and manage the purposes listed above. We may also share your Personal Information with third parties whom UNC-Chapel Hill engages to process your Personal Information on our behalf for the purposes stated above, such as vendors who help UNC-Chapel Hill with our marketing, application processing, web hosting, analytics providers, donor prospect organizations, and payment card processors. UNC-Chapel Hill may also share your Personal Information with government and law enforcement agencies or regulators to:
+1. comply with a legal process, subpoena, order or other legal or regulatory requirement applicable to us;
+2. enforce our terms of use or other policies; or
+3. pursue available legal remedies or defend against legal claims.
+We may share your Personal Information with third-parties pursuant to a request made by you, as permitted by this policy and other UNC-Chapel Hill policies and applicable laws and regulations.
+UNC-Chapel Hill does not sell any confidential Personal Information to third parties for their use in direct marketing, advertising, or promotion of their products or services.
+Please note that we may also use and disclose information about you that does not identify you individually. For example, we may conduct research and publish reports that contain aggregated and statistical data about our programs, students, employees, donors, and others. We may also disclose aggregated, anonymized information about users for marketing, advertising, research, compliance, or other purposes.
+When Are We Required to Disclose Public Records?
+UNC-Chapel Hill is subject to the North Carolina Public Records laws. This means that records, in all forms including email, provided to UNC-Chapel Hill are subject to public disclosure, unless the record is designated by law as confidential or not a public record. Some examples of confidential records include:
+education records of students;

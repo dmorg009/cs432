@@ -1,0 +1,9 @@
+Jian Wu, Old Dominion University
+News
+02/17/2021: 1 paper co-authored with Sree Sai Teja Lanka, Sarah Michele Rajtmajer, and C. Lee Giles accepted by Sci-K 2021 workshop , colocated with WWW 2021 (now called TheWebCon): Extraction and Evaluation of Statistical Information from Social and Behavioral Science Papers .
+12/24/2020: 1 paper co-authored with Bharath Kandimalla, Shaurya Rohatgi, and Dr. C. Lee Giles is accepted by Frontiers in Metrics and Analysis Journal : Large Scale Subject Category Classification of Scholarly Papers with Deep Attentive Neural Networks.
+12/13/2020: 1 paper co-authored with Wei Wang, Feng Xia, Zhiguo Gong, Hanghang Tong, and Brain Davison is accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE) : Scholar2vec: Vector Representation of Scholars for Lifetime Collaborator Prediction.
+12/08/2020: 2 papers accepted by AAAI-21 Workshop on Scientific Document Understanding (SDU) : Recognizing Figure Labels in Patents and Understanding and Predicting Retractions of Published Work.
+10/01/2020: 1 paper accepted by First Workshop on Scholarly Document Processing : Acknowledgement Entity Recognition in CORD-19 Papers.
+08/14/2020: 1 paper accepted by CLEF 2020 ARQMath Lab : PSU at CLEF-2020 ARQMath Track: Unsupervised Re-ranking using Pretraining.
+08/03/2020: 1 paper accepted by DocEng 2020 : COVIDSeer: Extending the CORD-19 Dataset.

@@ -1,0 +1,21 @@
+FAQ
+What do I need to do to apply to the ODU-REU program in Computer Science?
+Applicants will be evaluated on academics, research/work experience, and interest in Computer Science as a field of study or possible career. There are several steps to applying:
+Read through the available projects (located in the “projects” tab) and identify which projects you would be most interested in working on.
+Complete the Application form from ETAP application system.
+Gather your supporting documents. You will need to upload all the following documents in order to be considered for the program:
+A resume or CV
+A cover letter (up to one page) detailing your interest in computer sciences, relevant research experience and career or academic goals
+An unofficial transcript of all colleges you’ve attended (official transcripts will be required on acceptance to the program)
+One letter of recommendation (optional)
+A writing sample (must have been written independently, not part of a group project).
+What if I haven't declared a major yet? Can I still apply?
+Yes! Preference will be given to applicants with a background in computer science, data science, information science or other STEM fields, but we encourage all majors with a strong interest in Computer sciences to apply (including those who have not yet declared a major).
+My college doesn't have many research opportunities. Can I apply even if I don't have research experience?
+Yes! Students with a strong interest in computer science from all backgrounds are encouraged to apply. In addition, we strongly encourage applicants from groups currently underrepresented in STEM fields (women, minorities, and persons with disabilities).
+What will I be doing over the summer if I am accepted?
+The REU program is 10 weeks long. It is a full-time program. You will be working alongside a faculty mentor to complete a project. Once a week, there will be an event focused on your professional or academic development. This might include guest lecturers from the computer science field, workshops on how to apply to graduate programs, or field trips to relevant research centers.
+Will I get paid from the ODU-REU program in Computer Science if I am accepted?
+Yes! Students will be provided with $6000 stipend, travel subsidy, and housing and meals on campus.
+What is it like living at Old Dominion University?
+Old Dominion University (ODU) is located in Norfolk, VA. ODU is the largest university in the area, with over 100 academic programs and 24,000 students. The campus boasts a 355 acre campus with plenty of dining options and even its own art museum! Norfolk, VA is a vibrant city with several cultural districts and just a few minutes away from the beach! If accepted, you will have the opportunity to live at ODU. When not conducting research, you will be able to take full advantage of what ODU and the greater Norfolk area has to offer.

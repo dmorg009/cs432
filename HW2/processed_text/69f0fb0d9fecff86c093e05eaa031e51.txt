@@ -1,0 +1,538 @@
+Summer High School Students and Visitors
+Asu Ghimire, Ocean Lakes High School, 2021
+Zahra Rizvi, Grafton High School, 2021
+Isuru Gunawardena, Ocean Lakes High School, 2020. (Now CS Student at Duke University)
+PAST STUDENTS (Cal Poly Pomona)
+MS Students
+Nada
+Alghofaili (MS Thesis Student), 2017-2018
+Diana Lin (MS Project Student), 2017-2018
+Sobiga
+Shanmugathasan (MS Project Student), 2017-2018
+Shubbangi Shimpi (MS Project Student), 2017-2018
+Sashi Thapaliya (MS Thesis Student), 2017-2018
+Undergrduate
+Senior Project
+Micheal Huluf (Undergraduate Seinor Project) ,
+2016-2017
+Cesar Pedroza (Undergraduate Senior
+Project) ,
+2016-2017
+REU
+Students
+Irvein Cruz ( Citrus
+College), 2018
+Jessie Uyan (
+Cypress
+College), 2018
+Waleed Karim (Citrus
+College), 2017
+Ricky Kim (Cypress
+College), 2017
+(* with student co-authors)
+Book Chapters
+(Springer Nature) Soo-Yeon Ji, Sampath Jayarathna, Anne Perrotti, Katrina Kardiasmenos, and Dong Jeong, “ Identifying Patterns for Neurological Disabilities by Integrating Discrete Wavelet Transform and Visualization ”, Artificial Intelligence for Personalized Medicine, pp. 109-121, 2023
+(IGI-Global) Anne
+Michalek, *Gavindya Jayawardena, and Sampath Jayarathna.
+" Predicting ADHD using Eye Gaze Metrics
+Indexing Working Memory
+Capacity ", Computational
+Models for Biomedical Reasoning and Problem Solving, IGI Global, pp. 66-88. 2019 (Also available as a
+Technical Report arXiv:1906.07183 )
+(IGI-Global) Sampath
+Jayarathna,
+*Yasith Jayawardana, Mark Jaime, and *Sashi Thapaliya. 
+" Electroencephalogram (EEG) for Delineating
+Objective Measure of Autism
+Spectrum Disorder ", Computational
+Models for Biomedical Reasoning and Problem Solving, IGI Global, pp.
+34-65. 2019. (Also available as a Technical Report arXiv:1907.01515 )
+Journal Publications
+(Scientific Report) Cui
+Zixin, Yusuke Yamani, Tetsua Sato, Austin Jackson, Sampath Jayarathna, and
+Makoto Itosh, “Gaze Transition Entropy as a Measure of Attention Allocation and
+a Predictor of Automation Trust”, Nature Scientific Reports, 2024, (in press)
+(PACM) *Yash Prakash, * Akshay Kolgar Nayak, * Mohan Sunkara, Sampath Jayarathna, Hae-Na Lee, and Vikas Ashok, " All in One Place: Ensuring Usable Access to Online Shopping Items for Blind Users ",  Proceedings of the ACM on Human-Computer Interaction, 2023. Impact Factor: 4.57
+(IJCA)
+*Bathsheba Farrow, and Sampath Jayarathna, "A Microservices
+Architecture for Processing Large Electroencephalogram Studies", The
+International Journal of Computers and Applications (IJCA), 2024. (in
+press)
+(IJMDEM) *Yasasi Abeysinghe, * Bhanuka Mahanama, *Gavindya Jayawardena, *Yasith Jayawardana, *Mohan Sunkara, Vikas Ashok, and Sampath Jayarathna, " A-DisETrac Advanced Analytic Dashboard for Distributed Eye Tracking ", International Journal of Multimedia Data Engineering and Management, Vol. 15(1), 2024. Impact Factor: 0.9
+(Imaging) *Satwik Ram Kodandaram, *Mohan Sunkara, Sampath Jayarathna, and Vikas Ashok, " Detecting Deceptive Dark-Pattern Web Advertisements for Blind Screen-Reader Users " Journal of Imaging, Vol. 9 (11) , 2023. Impact Factor: 3.2
+(MDPI) Soo Yeon Ji, Sampath Jayarathna, Anne Perrotti, Katrina Kardiasmenos, and Dong Hyun Jeong, " Identifying Patterns for Neurological Disabilities by Integrating Discrete Wavelet Transform and Visualization " Applied Sciences, Vol. 14 (1) , 2023. Impact Factor: 2.9
+(PACM) *Mohan Sunkara, *Yash Prakash, Hae-Na Lee, Sampath Jayarathna, and
+Vikas Ashok, " Enabling Customization of Discussion Forums for Blind Users ", Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series), 2023. (in press) Impact Factor: 4.57
+(ACM IIS) *Md Javedul Ferdous, Hae-Na Lee, Sampath Jayarathna, and
+Vikas Ashok, " Enabling Efficient Web Data-Record Interaction for People with Visual Impairments via Proxy Interfaces ", ACM Transactions on Interactive Intelligent Systems, 2023
+(IEEE Access) Shashimal Senarath, Primesh Pathirana, Dulani Meedeniya, and Sampath Jayarathna. “ Customer Gaze Estimation in Retail Using Deep Learning ”, IEEE Access, 10, pp. 64904-64919,, 2022.
+(Elsevier ESWA) Primesh Pathirana, Shashimal Senarath, Dulani
+Meedeniya, and Sampath Jayarathna. “ Eye Gaze Estimation: A Survey on
+Deep Learning-Based Approaches ”, Expert Systems with Applications, Vol. 199, 2022. Impact Factor: 3.745
+(Frontiers in CS) Bhanuka Mahanama, Yasith Jayawardana,
+Sundararaman Rengarajan, Gavindya Jayawardena, Leanne
+Chukoskie, Joseph Snider, and Sampath Jayarathna. " Eye Movement and Pupil Measures: A Review ", Frontiers in Computer Science: Human-Media Interaction, 2022. Impact
+Factor:
+2.32, (2022 Outstanding Article award - Editor's Pick )
+(Elsevier) *Salim Sazzed, and Sampath Jayarathna.
+" SSentiA: A Self-supervised Sentiment Analyzer for Classification from
+Unlabeled Data ", Machine
+Learning with
+Applications, 4(1), 2021
+(IGI-Global IJMDEM) *Gavindya Jayawardena,
+and Sampath Jayarathna.
+" Automated Filtering of Eye Movements using
+Dynamic AOI in Multiple Granularity Levels ", International Journal of
+Multimedia Data Engineering and Management, 12(1), pp.
+49-64, 2021 [Invited
+Journal Paper - IEEE IRI 2020]
+(Springer IJAC) *Senuri De
+Silva, *Sanuwani Dayarathna, *Gangani Ariyarathne, Dulani Meedeniya,
+Anne Michalek,
+and Sampath Jayarathna.
+" Computational Decision Support System for
+ADHD Identification ", International
+Journal
+of Automation and Computing, 2020. [Journal Paper], Impact
+Factor:
+2.29
+(Springer IJAC) *Dilantha Haputhanthri, *Gunavaran
+Brihadiswaran, *Sahan Gunathilaka, Dulani Meedeniya, Sampath
+Jayarathna, Mark Jaime, and Christopher Harshaw.
+" Integration
+of Facial
+Thermography in EEG-based Classification of ASD ", International Journal
+of Automation and Computing, 2020. [Journal Paper], Impact
+Factor:
+2.29
+(IGI-Global IJEHMC) *Senuri De
+Silva, *Sanuwani Dayarathna, *Gangani Ariyarathne, Dulani Meedeniya,
+and Sampath Jayarathna.
+" fMRI Feature Extraction Model for ADHD
+Classification Using
+Convolutional Neural Network ", International
+Journal of E-Health and Medical Communications, Vol.
+12(1), pp. 81-105, 2020. [Journal Paper], Impact
+Factor: 0.57
+(ACM CSUR) *Vijini Mallawaarachchi, *Lakmal
+Meegahapola, *Roshan Alwis, *Eranga Nimalarathna, Dulani Meedeniya, and Sampath
+Jayarathna.
+" Change
+Detection and Notification of Webpages: A Survey ", ACM
+Computing Surveys , Vol 53 (1), pp. 1-35,
+2020. Impact Factor: 7.9 (Also available as a Technical Report arXiv:1901.02660 )
+(IJCS) *Gunavaran
+Brihadiswaran, *Dilantha
+Haputhanthri, *Sahan
+Gunathilaka, Dulani Meedeniya, and Sampath Jayarathna.
+" EEG-based
+Processing and Classification Methodologies for Autism Spectrum Disorder ", International
+Journal of Computer Science, Vol. 15(8), pp. 1161-1183,
+2019. [Journal
+Paper], SJR: 0.30
+(iJOE) *Senuri De
+Silva, *Sanuwani Dayarathna, *Gangani Ariyarathne, Dulani Meedeniya,
+and Sampath Jayarathna.
+" A
+Survey of Attention Deficit Hyperactivity Disorder Identification
+Using Psychophysiological Data ", International Journal of Online
+and
+Biomedical Engineering, Vol. 15(13), pp. 61-76, 2019. [Journal Paper], SJR: 0.15
+(IEEE
+TBE) Oleg
+Komogortsev, Denise Gobert, Sampath
+Jayarathna, Do Hyong Koh and Sandeep Gowda. " Standardization
+of Automated Analysis of Oculomotor Fixation and Saccadic Behaviors ". IEEE
+Transactions on
+Biomedical Engineering. Vol. 57(11), 2010.
+[Journal Paper], Impact Factor: 4.49
+(ACM
+TAP) Oleg
+Komogortsev,
+Corey Holland , Sampath
+Jayarathna, Alex Karpov. " 2D
+Linear Oculomotor Plant Mathematical Model: Verification and Biometric
+Applications ", ACM
+Transactions on Applied Perception, Vol. 10(4),2013.
+[Journal Paper], Impact Factor: 1.5
+Peer-Reviewed Conference Publications
+(TPDL) *Mohan Sunkara, * Akshay Kolgar Nayak, * Sandeep Kalari, *
+Satwik Kodandaram,  Sampath Jayarathna, Hae-Na Lee, and Vikas
+Ashok, " Assessing the Accessibility and Usability of Web Archives for Blind Users ",  The 28th International Conference on Theory and Practice of Digital Libraries, Ljubljana, Slovenia,  2024.
+(IEEE
+VIS) *Yash Prakash, * Pathan Aseef Khan, * Akshay Kolgar Nayak, Sampath
+Jayarathna, Hae-Na Lee, and Vikas Ashok, " Towards Enhancing Low Vision
+Usability of Data Charts on Smartphones",  The IEEE Visualization
+Conference (VIS), published in special issue of IEEE Transactions on
+Visualization and Computer Graphics (TVCG), 2024, Acceptance Rate: 22%
+(ACM
+ASSETS) *Yash Prakash, * Akshay Kolgar Nayak, Sampath Jayarathna,
+Hae-Na Lee, and Vikas Ashok, " Understanding Low Vision Graphical
+Perception of Bar Charts",  The 26th International ACM SIGACCESS
+Conference on Computers and Accessibility, 2024, Acceptance Rate: 30%
+(IEEE
+IRI) *Bhanuka Mahanama, Vikas Ashok, and Sampath Jayarathna,
+"Multi-Eyes: A Framework for Multi-User Eye-Tracking using Webcameras",
+Proceedings of the 25th IEEE International Conference on Information
+Reuse and Integration for Data Science (IRI), 2024.
+(IEEE
+IRI) *Gavindya Jayawardena, Vikas Ashok, and Sampath Jayarathna,
+"Advanced Gaze Analytics Dashboard", Proceedings of the 25th IEEE
+International Conference on Information Reuse and Integration for Data
+Science (IRI),2024.
+(IEEE IRI) *Yasasi Abeysinghe, * Bhanuka Mahanama, *Gavindya Jayawardena, *Mohan Sunkara, Vikas Ashok, and Sampath Jayarathna, " Gaze Analytics Dashboard for Distributed Eye Tracking ", Proceedings of the 24th IEEE International Conference on Information
+Reuse and Integration for Data Science (IRI), Bellevue, WA, USA, 2023 . (in press)
+(IEEE IRI) *Bathsheba Farrow, and Sampath Jayarathna, " A Serverless Electroencephalogram Data Retrieval and Preprocessing Framework ", Proceedings of the 24th IEEE International Conference on Information
+Reuse and Integration for Data Science (IRI), Bellevue, WA, USA, 2023 . (in press)
+(IEEE IRI) *Mohammad Shiri, *Oleksii Dubovyk, *Golbarg Roghaniaraghi, and Sampath Jayarathna, " Meme It Up: Patterns of Emoji Usage on Twitter ", Proceedings of the 24th IEEE International Conference on Information
+Reuse and Integration for Data Science (IRI), Bellevue, WA, USA, 2023 . (in press)
+(IEEE IRI) *Kayla Pineda, Anne Perrotti, Faryaneh Poursardar, *Danielle Graber, and Sampath Jayarathna, " Using BERT to Understand TikTok Users' ADHD Discussion ", Proceedings of the 24th IEEE International Conference on Information
+Reuse and Integration for Data Science (IRI), Bellevue, WA, USA, 2023 . (in press)
+(AHs) Kayla Pineda, Bhanuka Mahanama, Vikas Ashok, and Sampath Jayarathna,
+" Gaze-Augmented Drone Navigation ", Proceedings of the Augmented Humans (AHs) International Conference , Glasgow, UK, pp. 363-366, 2023
+(ACM CHIIR) Bhanuka Mahanama, Mohan Sunkara, Vikas Ashok, and Sampath Jayarathna,
+" DisETrac: Distributed Eye-Tracking for Online Collaboration ", Proceedings of the ACM
+Conference on Human Information Interaction and Retrieval, Austin, TX, 2023. (in press)
+(ACM IUI)  *Yash Prakash, *Mohan Krishna Sunkara, Hae-Na Lee, Sampath Jayarathna, and
+Vikas Ashok, " AutoDesc: Facilitating Convenient Perusal of Web Data Items for Blind Users ", Proceedings of the 28th
+Annual Conference on Intelligent User Interfaces,2023. (in press)
+(KES 2022) *Gavindya Jayawardenaa, *Yasith Jayawardana, Sampath
+Jayarathna, Jonas Hogstrom, Thomas Papa, Deepak Akkil, Andrew T.
+Duchowski, Vsevolod Peysakhovich,  Izabela Krejtz, Nina
+Gehrer, Krzysztof Krejtz,
+" Toward a Real-Time Index of Pupillary Activity as an Indicator of
+Cognitive Load ", In Proceedings of the 26th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, 2022.
+(ACM/IEEE
+JCDL) Yasith Jayawardana, Vikas G. Ashok, and Sampath Jayarathna. " StreamingHub: Interactive Stream Analysis Workflows ", Proceedings
+of the 22nd
+ACM/IEEE-CS Joint Conference on Digital Libraries, 2022.
+(DASA) Shashimal Senarath, Primesh Pathirana, Dulani Meedeniya, and
+Sampath Jayarathna. “ Retail Gaze: A Dataset for Gaze Estimation in
+Retail Environments ”, Proceedings of the 3rd International Conference on Decision Aid Sciences and Applications, 2022. (in press)
+(ICARC) Primesh Pathirana, Shashimal Senarath, Dulani Meedeniya, and
+Sampath Jayarathna. “ Single-User 2D Gaze Estimation in Retail
+Environment Using Deep Learning ”, Proceedings of the International
+Conference on Advanced Research in Computing (ICARC), 2022. (in press)
+(ACM IUI) *Md Javedul Ferdous, Hae-Na Lee, Sampath Jayarathna, and
+Vikas Ashok, " InSupport: Proxy Interface for Enabling Efficient
+Non-Visual Interaction with Web Data Records ", Proceedings of the 27th
+Annual Conference on Intelligent User Interfaces, pp. 49-62, 2022.
+(ACM/IEEE JCDL) *Bhanuka
+Mahanama, Lyudmila Balakireva, Sampath Jayarathna, Michael Nelson, and Martin Klein. " Memento Validator: A toolset for Memento compliance testing ", Proceedings
+of the 22st
+ACM/IEEE-CS Joint Conference on Digital Libraries, 2022.
+(ACM ETRA) *Bhanuka
+Mahanama, *Gavindya Jayawardena, * Yasasi Abeysinghe, Vikas G. Ashok,  and Sampath Jayarathna, " Multidisciplinary Reading Patterns of Digital Documents ", In Proceedings of the 14th ACM Symposium on
+Eye Tracking Research and Applications, 2022.
+(DocEng) *Yasith
+Jayawardana, *Gavindya Jayawardena, Andrew Duchowski,  and Sampath
+Jayarathna,
+" Metadata-Driven Eye Tracking for Real-Time Applications ", 21st ACM Symposium on Document Engineering, 2021.
+(ACM/IEEE JCDL) *Bhanuka
+Mahanama, *Gavindya Jayawardena, and Sampath Jayarathna, " Analyzing
+Unconstrained Reading Patterns of Digital Documents Using Eye
+Tracking ", Proceedings
+of the 21st
+ACM/IEEE-CS Joint Conference on Digital Libraries, 2021. (Best Poster award)
+(IEEE
+IRI) *Gavindya
+Jayawardena and Sampath
+Jayarathna, " Automated Filtering of Eye Gaze Metrics from
+Dynamic Areas of Interest "
+Proceedings of the 21st IEEE International Conference on Information
+Reuse and Integration for Data Science (IRI), Las Vegas, NV, USA, 2020,
+pp. 67-74. Acceptance Rate: 28%
+(AH) *Bhanuka Mahanama, *Yasith
+Jayawardana, and Sampath
+Jayarathna,
+" Gaze-Net: Appearance-Based Gaze Estimation
+using Capsule
+Networks ", 11th Augmented Human
+International Conference,
+pp. 1-4, 2020. (Also available as a
+Technical Report arXiv:2004.07777 )
+(ACM
+ETRA) *Gavindya Jayawardena, Anne Michalek, Andrew
+Duchowski, and Sampath
+Jayarathna,
+" Pilot Study of Audiovisual
+Speech-In-Noise(SIN) Performance of Young
+Adults with ADHD ", 12th
+ACM Symposium on
+Eye Tracking Research and Applications ,
+pp. 1-5, 2020. (Also available as a
+Technical Report arXiv:2004.08390 )
+(ICSCA) *Gangani
+Ariyarathne, *Senuri De Silva, *Sanuwani Dayarathna,  Dulani
+Meedeniya, and Sampath
+Jayarathna. " ADHD Identification using Convolutional
+Neural Network with Seed-based Approach for fMRI Data ", 9th
+International Conference on Software and Computer Applications,
+Langkawi, Malaysia,
+pp. 31-35, Feb 18-21, 2020.
+(ACM/IEEE
+JCDL) *Yasith Jayawardana, and Sampath Jayarathna. " Streaming Analytics and
+Workflow Automation for DFS ", Proceedings
+of the 20th
+ACM/IEEE-CS Joint Conference on Digital Libraries, Wuhan,
+Hubei, P. R. China, 2020. (Best Poster Honorable Mention
+award)
+(ACM/IEEE
+JCDL) *Gavindya Jayawardena, Sampath Jayarathna,and Jian Wu. " Analyzing
+the
+Effect of Reading Patterns using Eye Tracking Measures ", Proceedings
+of the 20th
+ACM/IEEE-CS Joint Conference on Digital Libraries, Wuhan,
+Hubei, P. R. China, 2020. (Best Poster award)
+(ACM/IEEE
+JCDL) *Yasith Jayawardana, and Sampath Jayarathna. " DFS: A
+Dataset File System for Data Discovering Users ", Proceedings
+of the 19th
+ACM/IEEE-CS Joint Conference on Digital Libraries,
+Urbana-Champaign, Illinois, pp. 355-356, June 2-6, 2019. (Also available as a
+Technical Report arXiv:1905.13363 )
+(IEEE
+IRI) *Bathsheba Farrow, and Sampath Jayarathna,
+" Technological Advancements in Post-Traumatic
+Stress Disorder
+Detection: A Survey ", IEEE
+20th International
+Conference on Information Reuse and Integration for Data
+Science , Los
+Angeles, CA, July 31-August 3, pp. 223-228, 2019. Acceptance rate: 23%
+(IEEE
+IRI) *Gavindya Jayawardena, Anne Michalek, and Sampath Jayarathna,
+" Eye Tracking Area of Interest in the Context
+of Working Memory
+Capacity Tasks ", IEEE
+20th International
+Conference on Information Reuse and Integration for Data
+Science , Los
+Angeles, CA, July 31-August 3, pp. 208-215, 2019. Acceptance rate: 23% (Also available as a
+Technical Report arXiv:1906.07183 )
+(IEEE
+IRI) *Salim Sazzed, and Sampath Jayarathna,
+" A Sentiment Classification in Bengali and
+Machine Translated English
+Corpus ", IEEE 20th International
+Conference on Information Reuse and Integration for Data
+Science , Los
+Angeles, CA, July 31-August 3, pp. 107-114, 2019. Acceptance rate: 23%
+(IEEE
+IRI) *Yasith Jayawardana, Mark Jaime, and Sampath Jayarathna,
+" Analysis of Temporal Relationships between
+ASD and Brain Activity
+through EEG and Machine Learning ", IEEE
+20th International Conference on Information Reuse and Integration for Data Science , Los Angeles, CA,
+July 31-August 3, pp. 151-158, 2019. (Best Student Paper award) Acceptance rate: 23%
+(IEEE
+MERCon) *Senuri De Silva, *Sanuwani Dayarathna, *Gangani
+Ariyarathne, Dulani Meedeniya, Sampath
+Jayarathna,
+Anne Michalek, and *Gavindya Jayawardena. " A Rule-Based System for ADHD
+Identification using Eye Movement Data ", 5th International
+Multidisciplinary Engineering Research Conference, Moratuwa, Sri Lanka,
+pp. 538-543,
+July 3-5, 2019. (Best Paper award)
+(IEEE
+MERCon) *Dilantha
+Haputhanthri, *Gunavaran Brihadiswaran, *Sahan
+Gunathilaka, Dulani Meedeniya, Yasith Jayawardana, Sampath Jayarathna, and
+Mark Jaime.
+" An EEG based Channel Optimized
+Classification Approach for Autism Spectrum Disorder ", 5th
+International Multidisciplinary Engineering Research Conference,
+Moratuwa, Sri Lanka, pp. 123-128, July 3-5, 2019.
+(IEEE
+Big Data) *Sashi Thapaliya, Sampath Jayarathna, and
+Mark Jaime. " Evaluating the EEG and Eye Movements for
+Autism Spectrum Disorder ", IEEE Big
+Data Conference Special Session on Intelligent Data Mining , Seattle, WA,
+December 10-13, 2018.
+(IEEE
+IRI) *Diana Lin, and Sampath Jayarathna. " Automated
+Playlist Generation from Personal Music Libraries ", Proceedings of the
+19th IEEE  International Conference on Information
+Reuse and Integration , Salt Lake City, Utah, July 7-9,
+2018.
+(IEEE
+IRI) *Sobiga Shanmugathasan, and Sampath Jayarathna. " Oculomotor
+Plant Feature Extraction from Human Saccadic Eye Movements ", Proceedings of the
+19th IEEE  International Conference on Information
+Reuse and Integration , Salt Lake City, Utah, July 7-9,
+2018.
+(IEEE
+IRI) *Tannaz Rezaei Damavandi, Sampath Jayarathna,
+and Yu Sun. " Modeling CDC Data for Real Time Feature
+Estimation ", Proceedings of the
+19th IEEE  International Conference on Information
+Reuse and Integration , Salt Lake City, Utah, July 7-9,
+2018.
+(ACM/IEEE
+JCDL) Sampath
+Jayarathna and *Sobiga Shanmugathasan. " Evaluating
+Saccade-bounded Eye Movement Features for the User Interest Modeling ", Proceedings of the 18th
+ACM/IEEE-CS Joint Conference on Digital Libraries, Fort
+Worth, TX, June 3-6, 2018.
+(ICSCA) *Lakmal Meegahapola, *Roshan Alwis, *Eranga Nimalarathna, *Vijini
+Mallawaarachchi, Dulani Meedeniya, and Sampath Jayarathna.
+" Random Forest Classifier based Schedular
+Optimization for Search
+Engine Web Crawlers ", 7th International
+Conference on Software and Computer Applications, Kuantan,
+Malaysia, February 8-10, 2018.
+(ICTer) *Lakmal Meegahapola, *Roshan Alwis, *Eranga Nimalarathna, *Vijini
+Mallawaarachchi, Dulani Meedeniya, and Sampath Jayarathna.
+" Detection of Change Frequency in Web Pages
+to Optimize Server-based
+Scheduling ", 17th
+International Conference on Advances in ICT for Engineering Regions,
+Colombo, Sri Lanka, September 07-08, 2017.
+(IEEE
+INTECH) *Lakmal Meegahapola, *Roshan Alwis, *Eranga
+Nimalarathna, *Vijini Mallawaarachchi, Dulani Meedeniya, and Sampath Jayarathna.
+" Adaptive Technique for Web Page Change
+Detection using Multi-threaded
+Crawlers ", IEEE
+7th
+International Conference on Innovative Computing Technology,
+Luton, UK, August 16-18, 2017.
+(IEEE
+IRI) Sampath Jayarathna, and Frank Shipman. " Analysis and Modeling of Unified User
+Interests ", IEEE
+18th International Conference on Information Reuse and Integration ,
+San Diego, CA, August 04-06, 2017.
+(IEEE
+SNPD) *Lakmal Meegahapola, *Roshan Alwis, *Eranga
+Nimalarathna, *Vijini Mallawaarachchi, Dulani Meedeniya, and Sampath Jayarathna. " Optimizing Change Detection in Distributed
+Digital Collections ", IEEE/ACIS 18th International
+Conference on Software Engineering, Artificial
+Intelligence, Networking and Parallel/Distributed Computing,
+Ishikawa, Japan, June 26-28, 2017.
+(IEEE
+MERCon) *Lakmal Meegahapola, *Roshan Alwis, *Eranga
+Nimalarathna, *Vijini Mallawaarachchi, Dulani Meedeniya, and Sampath Jayarathna.
+" Change Detection Optimization in Frequently
+Changing Web Pages ", 3rd
+International Multidisciplinary Engineering Research Conference,
+Moratuwa, Sri Lanka, May 29-31, 2017.
+(IEEE
+Big Data) Sampath Jayarathna, and *Faryaneh Poursardar. " Change Detection and Classification of
+Digital Collections ", IEEE Big
+Data Conference Special Session on Intelligent Data Mining,
+Dec. 5-8, 2016.
+(ACM
+CHIIR) Sampath
+Jayarathna, and Frank Shipman. " Rationale
+and Architecture for Incorporating Human Oculomotor Plant Features in
+User Interest Modeling ", Proceedings of the ACM
+Conference on Human Information Interaction and Retrieval,
+Chapel Hill, NC, March 13-17, 2016,
+pp.281-284.
+(ACM/IEEE
+JCDL) Sampath
+Jayarathna, Atish Patra, and Frank
+Shipman. " Unified
+Relevance Feedback for Multi-Application User Interest Modeling ", Proceedings of
+the 15th
+ACM/IEEE-CS Joint Conference on Digital Libraries,
+Knoxville, TN, June 22-26, 2015, pp.
+129-138. (Nominated
+for Best Student Paper award)
+(ACM/IEEE
+JCDL) Luis
+Meneses, Sampath
+Jayarathna, Richard Furuta, and Frank
+Shipman. " Grading
+Degradation in an Institutionally Managed Repository ", Proceedings of the 15th
+ACM/IEEE-CS Joint Conference on Digital Libraries ,
+Knoxville, TN, June 22-26, 2015, pp. 263-264.
+(ACM/IEEE
+JCDL) Sampath
+Jayarathna " Unifying
+Implicit and Explicit Feedback for Multi-Application User Interest
+Modeling ", Proceedings
+of the 15th
+ACM/IEEE-CS Joint Conference on Digital Libraries ,
+Knoxville, TN, June 22-26, 2015. [Doctoral Consortium Paper]
+(SKG) Zhou Zhurong, Sampath Jayarathna,
+Atish Patra, and Frank Shipman. " IPM-G: Enabling
+Collaborative
+Filtering Using Multi-Application Interest Models ",
+Semantics,
+Knowledge and Grids, Beijing, CH, Aug. 27-29, 2014, pp.
+141-144.
+(ACM
+CIKM) Sampath Jayarathna, Atish Patra, and Frank
+Shipman. " Mining
+User Interest from Search Tasks and Annotations ", Proceedings of ACM Conference on
+Information and Knowledge Management, Burlingame,
+CA, October 27- November 1, 2013 , pp. 1849-1852.
+(ACM
+ETRA) Oleg Komogortsev, Sampath Jayarathna,
+Cecilia Aragon, and Mahmouod Mechehoul. " Biometric
+Identification via an Oculomotor Plant Mathematical Model ". Proceedings of the ACM Symposium
+on Eye-Tracking Research & Applications ,
+pp. 57-60, 2010.  (31%)
+(ACM
+ETRA) Oleg Komogortsev, Sampath Jayarathna,
+Do Hyong Koh, and Sandeep Gowda, . " Qualitative
+and Quantitative Scoring and Evaluation of the Eye Movement
+Classification Algorithms ". Proceedings of the ACM Symposium
+on Eye-Tracking Research &
+Applications , pp. 65-68. ACM,
+2010. (31%)
+(IEEE
+BIBE) Oleg Komogortsev and Sampath Jayarathna, 
+" 2D
+Oculomotor Plant Mathematical Model for Eey Movement Simulation ". Proceedings of BioInformatics
+and
+BioEngineering , pp. 1-8. 2008.
+(IEEE
+CIMCA) Sampath
+Jayarathna and
+G.E.M.D.C. Bandara. " Junction Based Segmentation Algorithms for
+Offline Handwritten Connected Character Segmentation ". Proceedings of IEEE Computational Intelligence
+for Modelling, Control and Automation,
+2006 and International Conference on Intelligent Agents, Web
+Technologies and Internet Commerce pp.
+147-147. 2006.
+(IEEE
+ICIIS) Sampath Jayarathna and
+G.E.M.D.C. Bandara. " New Segmentation Algorithm for Offline
+Handwritten Connected Character Segmentation ". Proceedings of IEEE Industrial and Information
+Systems , pp. 540-546, 2006.
+Peer-Reviewed Posters (Conference) and workshop
+Publications
+(PHAI) Soo Ji, Sampath Jayarathna,
+Anne Perrotti, Katrina Kardiasmenos, and D. Jeong, “EEG Analysis of
+Neurodevelopmental Disorders by Integrating Wavelet Transform and
+Visual Analysis”, Public Health on Artificial Intelligence (PHAI)
+workshop, AAAI, Feb 7-14, 2023. (in press: Springer/Nature in Studies
+in Computational Intelligence)
+(ACM BCB) *Bathsheba Farrow, and Sampath Jayarathna, "Visual Pipeline Modeling in NeuroPype for EEG Data Analysis", The 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2021.
+(ACM BCB) *Bathsheba Farrow, and Sampath Jayarathna, "Sentiment Analysis of Social Media Posts for Mental Health Assessments", The 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2021.
+(Big
+Data CAS) *Yasith
+Jayawardana, *Alexander C. Nwala, *Gavindya Jayawardena, Jian Wu, Sampath Jayarathna,
+Michael Nelson, C. Lee Giles. " Modeling Updates of Scholarly Webpages Using
+Archived Data ", BigData'20
+Computational Archival Science, 2020.
+(ACM
+Tapia) *Nada Alghofaili, *Joanna Cao, and Sampath Jayarathna. " Persona
+Generation for Human Trafficking Victims ", ACM Richard Tapia Celebration of
+Diversity in Computing, Orlando, FL,  September
+19-22,
+2018.
+(IEEE
+VIS LIVVIL) Rhema
+Linder, Alyssa Pena, Sampath Jayarathna and Eric Ragan. " Results and Challenges in Visualizing
+Analytic Provenance of Text Analysis Tasks Using Interaction Logs ", Logging
+Interactive Visualizations and Visualizing Interaction Logs Workshop at
+IEEE VIS, Baltimore, MD, Oct. 23-28, 2016. [workshop paper]
+(WADL) Luis Meneses, Sampath Jayarathna, Richard Furuta, and Frank
+Shipman. " Grading
+Degradation in an Institutionally Managed Repository ", Workshop of Web Archiving and
+Digital Libraries, Knoxville, TN, June 22-26, 2015.
+[workshop paper]
+Technical Reports

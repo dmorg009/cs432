@@ -1,0 +1,3 @@
+yasith@cs.odu.edu
+About Me
+Dedicated to bridging technology and human potential, with a focus on agentic AI, real-time analysis, computer-aided diagnostics, and HPC. Co-founder of Marketrix.ai, creator of StreamingHub and MSstack, contributor to Apache OODT, Airavata, and Cybershuttle.

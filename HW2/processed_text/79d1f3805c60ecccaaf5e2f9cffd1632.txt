@@ -1,0 +1,4 @@
+TEACHING
+Brief Bio
+Before joining Old Dominion University, I was a post-doctoral associate at Stony Brook University, from where I graduated with a PhD in Computer Science. My primary research focus is in Accessible Computing, and I am particularly interested in designing and developing AI-driven assistive technologies for people with vision impairments.
+Research

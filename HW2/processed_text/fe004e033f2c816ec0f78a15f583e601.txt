@@ -1,0 +1,22 @@
+More Related Content
+How Much of the Web is Archived? JCDL 2011
+1. How Much of the Web is Archived?*Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen,Michele C. Weigle, Michael L. NelsonOld Dominion University, USA{sainswor, aalsum, hany, mweigle, mln}@cs.odu.eduJCDL 2011, Ottawa, Canada*This work supported in part by the Library of Congress and NSF IIS-1009392.
+2. How Much of the Web is Archived?*Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen,Michele C. Weigle, Michael L. NelsonOld Dominion University, USA{sainswor, aalsum, hany, mweigle, mln}@cs.odu.eduJCDL 2011, Ottawa, Canada*This work supported in part by the Library of Congress and NSF IIS-1009392.
+5. 4 Sample sets – 1000 URIs eachExperimentSampling Techniques5
+6. Sampling TechniquesDMOZAll the available DMOZ history: 100 snapshots made from July 20, 2000 through October 3, 2010Remove duplicates, non-HTTP, invalid URIS
+8. Sampling TechniquesDeliciousWe used Delicious Recent random URI generator (http://www.delicious.com/recent/?random=1) on Nov. 22, 2010 to get 1000 URIs.7
+9. Sampling TechniquesBitlyBitly URI consists of a 1–6 character, alphanumeric hash value appended to http://bit.ly/
+10. Random hash values were created and dereferenced until 1,000 target URIs were discovered8
+11. Sampling TechniquesSearch EngineRandom Sample from Search Engine technique [Bar-Yossef 2008]
+12. The phrase pool was selected from the 5-grams in Google’s N-gram data.
+13. A random sample of these queries was used to obtain URIs, of which 1,000 were selected at random.9
+14. Experiment10For each sample set, we used Memento Aggregator to get all the possible archived copies (Mementos).
+15. For each URI, Memento Aggregator responded with TimeMap for this URI.Example<http://memento.waybackmachine.org/memento/20010819194233/http://jcdl2002.org>;rel="first memento";datetime="Sun, 19 Aug 2001 19:42:33 GMT“, <http://memento.waybackmachine.org/memento/20011216220248/http://jcdl2002.org>; rel="memento"; datetime="Sun, 16 Dec 2001 22:02:48 GMT",
+17. We have 3 categories of archivesInternet Archive (classic interface)Search engine Other archivesArchive categoriesUKUS12
+18. • Internet Archive•Search Engine• Others ArchivesMemento Distribution, ordered by the first observation date.
+19. Memento Distribution, ordered by the first observation date.
+20. (14.6% archived >= once per month)How often are URIs archived?
+21. (14.7%  archived >= once per month)(31% archived >= once per month)(28.7%  archived >= once per month)(14.6% archived >= once per month)How often are URIs archived?
+22. What affects the archival rate?URI source (More popular – More archival)BackLinks (Weak positive relationship)Archive CoverageInternet Archive (Best)Search Engine (Good), but only one copy.The other archives cover only a small fraction with recent copies.Analysis17
+23. Tell me what is your URI source!!ConclusionHow much of the Web is Archived?18Contact: Ahmed AlSum (aalsum@cs.odu.edu)
+24. Ziv Bar-Yossef and Maxim Gurevich. Random sampling from a search engine’s index. J. ACM, 55(5), 2008.Frank McCown and Michael L. Nelson. Characterization of search engine caches. In Proceedings of IS&T Archiving 2007, May 2007.Herbert Van de Sompel, Michael Nelson, and Robert Sanderson. HTTP framework for time-based access to resource states — Memento, November 2010. http://datatracker.ietf.org/doc/draft-vandesompelmemento/.References19

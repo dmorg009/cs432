@@ -1,0 +1,18 @@
+Back to Top ↑
+About Me
+I am an assistant professor of Data Science at William & Mary ( W&M ). Before joining W&M, I was a postdoc at the Observatory on Social Media (OSoMe) , Indiana University , Bloomington. And before that, a research assistant and member of the Web Science and Digital Libraries (WS-DL) Research Group at Old Dominion University ( ODU ). I’m a Computer Science graduate of ODU (PhD: 2020, MS: 2014) and Elizabeth City State University (BS: 2011).
+My research interests include Social media/network analysis, computational social science, web/data science, web archiving, (local)news, and NLP.
+Teaching (Fall 2024)
+DATA 202-01 - Ethics in Data Science : Tuesdays/Thursdays (8 -– 9:20am, Music 217)
+DATA 440-07 / 691-03 - Web Science: Tuesdays/Thursdays (9:30 -– 10:50 am, Music 217)
+Recent Publications and Talks
+Nwala, Alexander C., Flammini, Alessandro, and Menczer, Filippo, “A Language Framework for Modeling Social Media Account Behavior,” EPJ Data Science, Vol. 12, No. 1, 2023, p. 33.
+Christopher Torres-Lugo, Manita Pote, Alexander Nwala, and Filippo Menczer, “Manipulating Twitter Through Deletions,” In Proceedings of AAAI Conference on Web and Social Media (ICWSM). june 2022.
+Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, “Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections,” In Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL). September 2021, pp. 80-89.
+Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, “What Did It Look Like: A service for creating website timelapses using the Memento framework,” In Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL). September 2021, pp. 340-341, poster.
+Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, “365 Dots in 2019: Quantifying Attention of News Sources,” Poster/demo accepted at the Computation + Journalism Symposium (symposium cancelled due to COVID-19), May 2020.
+Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, “Using Micro-collections in Social Media to Generate Seeds for Web Archive Collections,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Urbana-Champaign, IL, June 2019, pp. 251-–260.
+Jayawardana, Yasith, Nwala, Alexander C, Jayawardena, Gavindya, Wu, Jian, Jayarathna, Sampath, Nelson, Michael L, and Giles, C Lee, “Modeling Updates of Scholarly Webpages Using Archived Data,” In Proceedings of IEEE International Conference on Big Data (IEEE BigData 2020). 2020.
+Bio
+Dr. Alexander C. Nwala is an assistant professor of Data Science at William and Mary (W&M). Before joining W&M, he was a postdoc at the Observatory on Social Media, Indiana University, Bloomington, with a research focus on dis/misinformation diffusion, detection, and countering of online manipulation. He received his PhD in Computer Science at Old Dominion University and has contributed multiple important tools and datasets to the data/web science, social media, (local) news, and web archiving communities. Dr. Nwala has taught Computer Science courses to High School, Undergraduate, and Graduate students and has collaborated across disciplines and institutions, including with computer scientists/journalists at IU, archivists at the National Library of Medicine, and lawyers at Harvard. And his research has been published in multiple peer-reviewed Journals and Conferences including the ACM/IEEE JCDL, ACM HyperText, iPres, and ICWSM.
+Follow:

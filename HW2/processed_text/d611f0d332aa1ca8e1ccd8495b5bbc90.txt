@@ -1,0 +1,20 @@
+Research
+Can AI be used for crisis communication?
+In a study led by Hussman’s Eva Zhao, culturally tailored chatbots delivered hurricane information to the public.
+By Michael Lananna, University Communications, Friday, January 24th, 2025
+(Zack Hall/UNC Creative)
+Print Friendly
+How do we quickly and effectively communicate to the public during times of crisis?
+For Carolina assistant professor Eva Zhao , that question is central to her research in the Hussman School of Journalism and Media.
+Zhao focuses on computational strategic communication and how emerging technologies can be used for crisis communication — particularly to diverse cultural groups. In 2024, her research led her to a promising new solution: generative AI chatbots.
+These chatbots employ artificial intelligence to communicate with the public much like a human would, answering questions about preparing for an ongoing or upcoming crisis and providing safety guidance and resources. Better yet, the bots are culturally tailored and multilingual, allowing them to deliver the same pertinent — and potentially lifesaving — information to non-English speakers and varied cultures.
+Eva Zhao
+“In recent years, I became more interested in multiethnic communities and how we can best apply computational and AI methods to satisfy their informational needs during disasters and crisis communication — because we do have this gap here,” Zhao said. “If we think about Hurricane Helene, North Carolina really has a lot of thriving Hispanic communities, but during the hurricane, some alerts and the disaster information from the agencies didn’t have Spanish versions, so a lot of the realities and situations like this made me more interested in disaster communication.”
+Many months before Helene, in early 2024, Zhao led an experiment with 441 participants in Florida, testing out these culturally tailored chatbots in a state that is prone to hurricanes.
+The participants included a diverse sample from the Black, Latinx and white communities, and Zhao and her team experimented with a variety of communication styles for the generative AI chatbots.
+Some of the chatbots were much more informal in tone, using emojis and colloquial language to communicate like a human would, while others stuck with an authoritative, formal tone. The project also tested degrees of cultural tailoring. For instance, the more culturally sensitive chatbots would direct Latinx users to Hispanic churches or community centers or similar resources, while other chatbots would deliver more one-size-fits-all messaging.
+“The results were promising because we saw that the culturally tailored chatbots were perceived as more credible, more friendly. The perceived credibility of the chatbots actually promoted the participant’s information-seeking intention, information-sharing intention and their sense of preparedness,” Zhao said. “So cultural tailoring turned out to be a very important factor for this information delivery.”
+As for tone, Zhao said the results were somewhat counterintuitive. While she initially thought that the more informal, human-like chatbots would be more effective, it turned out that participants were more likely to take action after receiving a message with a formal, authoritative tone.
+In the burgeoning and ever-changing field of artificial intelligence, Zhao sees potential in these chatbots for disaster and crisis communication. She continues to find ways to tinker with the bots to increase their effectiveness and to reach more of the public.
+“I think there will be a lot of applications for these chatbots, especially considering the need of the mountain communities in our state,” Zhao said. “We can add some audio functions to the chatbots, which could help particular groups of people with visual impairments or with lower literacy.”
+Based on the misinformation she observed during Hurricane Helene, Zhao sees another potential use for chatbots. “I think future research could also explore the opportunity to use generative AI chatbots not only as information delivery agent but also as misinformation-correction agents, so there are huge opportunities here,” she said.

@@ -1,0 +1,25 @@
+CS620/DASC600, Introduction
+to Data Science, Fall 2022
+Location: Zoom (Dr. Sampath) ECSB 2120 (Dr. Wang)
+Thursday 5:45pm - 7:00pm (Online Recitation)Tuesday  11:00am - 12:15pm (Live Recitation)
+Piazza
+Discussion
+Instructor
+Sampath
+Jayarathna (sampath@cs.odu.edu), Office: ECSB 3109, Virtual Office Hours: Thursday, 10.00 am - 11.00am or by appointment. Fengjiao Wang (f1wang@odu.edu), Office: ECSB 3206, Live Office Hours: Tuesday, 2.00 pm - 3.00pm or by appointment.
+Announcements
+Welcome
+to CS620/DASC600 Data Science.
+Note
+that the course content will be
+delivered via https://canvas.odu.edu/ for all the registered students. The recitation sections will be delivered via synchronous
+Zoom (Dr. Sampath) and live/synchronous Zoom (Dr. Wang). We
+will utilize the recitation time to discuss about the weekly course
+content, assignments, class activities and the project work. We'll be
+recording the videos and posting them for the folks who are not available
+during this time.  We understand some of you are probably
+working
+and taking the courses part-time, but want to make sure that the
+recitation is not just for the folks registered for the live sessions. All
+of you are welcome to join if that date/time is convenient to
+you.

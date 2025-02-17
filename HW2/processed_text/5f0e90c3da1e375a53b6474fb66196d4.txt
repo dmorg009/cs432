@@ -1,0 +1,70 @@
+Old Dominion University, Norfolk, VA (2019 - Present)
+My main research areas are information retrieval, data science and machine learning.
+Currently I work with eye tracking for neurophysiological disease and disorder detection and also
+                  on multi-user eye tracking. The current research includes aspects of computer vision and machine learning
+                  for successfull eye trackig, distributed systems for data collection and transmission and Information
+                  retrieval and data mining for generating useful information.
+BSc in Engineering (Computer Science and Engineering)
+University of Moratuwa, Sri Lanka (2014 - 2018)
+During the Bachelor's degree, I followed Integrated Computer Engineering (ICE) program, which provided
+                  knowledge on embedded system and computer hardware development in addition to core computer science
+                  and Engineering knowledge areas. In addition, I took courses in Computer Networks, Machine learning, Data mining,
+                  Information retrieval, Robotics and Comuter Vision to broaden knowledge.
+My final year research and development project was based on Data mining and Machine learning to provide
+                  insights for improving quality of education in Sri Lanka.
+Advanced Diploma in Management Accounting
+Chartered Institute of Management Accountants (UK)
+Through the professional qualification program, I was able to gather knowledge and skills in the
+                  field of Management Accouting and Decision Making. The program includes knowledge areas of
+                  Performance, Enterprise and Financial management utilizing knowledge of Management accouting, Financial Accouting,
+                  Business law and Economics.
+Experience
+Old Dominion University, Norfolk, VA (08/2019 - Present)
+Research on multi-user eye-tracking, multi-sensory
+                      information retrieval for human-computer interaction, and
+                      behavioral analysis.
+Research on scalable appearance-based gaze/eye tracking
+                      in the wild.
+Conducted sessions on Python, Embedded programming, and
+                      Data science for Student ThinSat Summer Camp.
+Performed teaching assistant duties for Data structures
+                      and algorithms, Discrete structures, and Cryptography for
+                      computer security.
+Research Intern
+Los Alamos National Laboratory, Los Alamos, NM (05/2021 - 08/2021)
+Designed and developed a toolset for the Memento Protocol(IET
+                      RFC 7089) compliance testing and reporting.
+Implemented improvements to enable toolset and service
+                      accessibility to public and private web archives.
+Junior Consultant
+University of Moratuwa, Sri Lanka (01/2019 - 08/2019)
+Planned, coordinated, conducted and evaluated Computer
+                      Networks, Software Engineering, Industrial Computer Engineering,
+                      and Image processing practical sessions for undergraduates.
+Mentoring and Supervising undergraduate software engineering projects.
+Visiting Instructor
+University of Moratuwa, Sri Lanka (08/2018 - 12/2018)
+Conducted and evaluated practical sessions for Computer
+                       Networks, and Industrial Computer Engineering.
+Associate Software Engineer
+Wavenet International (Pvt) Ltd, Colombo, Sri Lanka (01/2018 - 08/2018)
+Designed, developed and optimized databases for high
+                      throughput applications using MySQL cluster.
+Developed plugins and plugin support for data warehousing
+                      and data analytics for existing telecommunication products.
+Trainee Software Engineer
+Wavenet International (Pvt) Ltd, Colombo, Sri Lanka (06/2017 - 12/2017)
+Developed high available and throughput applications
+                      using Erlang, Mnesia and MySQL cluster for telecommunication
+                      service providers.
+Developed plugins for company product integrations and
+                      end-user applications.
+MGaze - Multi User Gaze Interactions
+2019/2020
+Researching and Developing systems, algorithms and software for
+              multi-user eye tracking for analytics in immersive environments.
+Python, JavaScript, OpenCV, TensorFlow, TensorFlowJS
+Memento Validator
+2021 - Present
+Designed an developed a new toolset for testing the Memento standard (IET RFC 7089) compliance of resources capable of testing through multiple interfaces.
+Python, Memento Protocol

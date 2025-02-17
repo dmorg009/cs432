@@ -1,0 +1,19 @@
+Report a Digital Accessibility Issue
+Do you think content or features on a UNC-Chapel Hill website are inaccessible to individuals with disabilities?
+Do you have comments or suggestions to improve the digital accessibility of a UNC-Chapel Hill website or online tool?
+If so, please use the Digital Accessibility Office’s report form to let them know about your concerns.
+Requesting Employee, Student, Applicant and Visitor Accommodations
+For any questions you have about the University of North Carolina at Chapel Hill Policy on Accomodations , please contact:
+Tiffany Bailey Director of Equal Opportunity and ADA Coordinator tmbailey@unc.edu (919) 966-7545
+Campus Resources
+The offices of Accessibility Services and Equal Opportunity/ADA Office offer other resources for the Carolina Community, such as information on accommodations. The EOC office now offers tutorials on how to use a free translation plugin for Google Chrome.
+The offices work closely with the Digital Accessibility Office to support the accessibility of digital content, resources and technology.
+Tips for improving your experience
+Consider using the following methods to improve your experience on this site:
+Explore your browser settings to find optimal conditions for your use, such as the best type size.
+Check your browser for any features that will help access content.
+Find descriptions of images in the alternative text recognizable by screen readers.
+Tools for Campus Web Developers
+While creating websites, developers at Carolina should adopt web standards established by the Worldwide Web Consortium (W3C) for online content creation. Carolina’s site, www.unc.edu, was built and tested to W3C’s WCAG 2.0 level A guidelines. For more information, consult the W3C’s page on accessibility .
+Web developers may use resources provided by Carolina’s Digital Accessibility Office .
+Digital Accessibility trainings are available on specific topics, such as captioning and web accessibility.

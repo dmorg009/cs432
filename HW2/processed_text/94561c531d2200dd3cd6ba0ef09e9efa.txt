@@ -1,0 +1,22 @@
+msunk001@odu.edu
+Mohan Krishna is a dedicated PhD candidate with a strong background in data analysis and deep learning, currently pursuing a doctorate in Computer Science at Old Dominion University in Norfolk, Virginia.
+As a dedicated member of the Web Science and Digital Libraries (WS-DL) research group , he is committed to developing accessible and usable technology for visually impaired individuals. His research spans Natural Language Processing (NLP), computer vision, human-computer interaction, accessibility, usability, machine learning, deep learning, Probability and Statistics, and Generative AI.
+Specializing in designing, developing, deploying, and optimizing machine learning and deep learning models, Mohan's work has led to valuable contributions, including patents and publications in renowned conferences such as EICS2023, IUI 2023, CHIIR 2023, Hypertext 2022, JCDL 2023, IRI 2023, ASEM2023, and more.
+Mohan's academic journey includes a Bachelor of Technology in Information Technology and a Master of Technology in Computer Science and Engineering from Manipal Institute of Technology. During his studies, he interned at HP Hewlett-Packard Research and Development, where he focused on enhancing HP printer intelligence.
+He also had the privilege of completing a digital internship at P&G Procter & Gamble near Prague, Czech Republic, Europe, where he worked on IoT, data analysis, and web development, gaining valuable insights into the European market and its vibrant culture.
+Passionate about improving accessibility for the visually impaired through his expertise in computer vision and machine learning, Mohan is also an enthusiast of horror mystery filmmaking and dedicates his time to social and spiritual groups.
+For more information,
+Explore his research on Google Scholar [here] and ResearchGate [here] .
+you can explore his professional journey on LinkedIn [here] .
+Catch his insights and updates on Twitter [here] .
+Access his detailed resume [here] .
+Education
+Ph.D. in Computer science, 2021-
+Old Dominion University
+M.Tech. in Computer science, 2017-2019
+Manipal Institute of Technology- India
+B.Tech. in Computer science & engineering, 2013-2017
+Manipal Institute of Technology- India
+News
+Worked as Research Intern at ISG-Information Service Group .
+Aug 2021

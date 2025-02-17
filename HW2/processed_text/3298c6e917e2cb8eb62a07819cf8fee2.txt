@@ -1,0 +1,23 @@
+About Projects Mentors FAQ Contact
+About
+This Research Experience for Undergraduates program (REU), provides hands-on learning experiences to undergraduates focused on disinformation detection and analytics at Old Dominion University (ODU) within the Department of Computer Science, in partnership with the Virginia Modeling, Analysis, and Simulation Center (VMASC) and the Department of Communication Disorders & Special Education. Disinformation exists in the form of “fake news”, consisting of deliberate misinformation. For example, a recent study found that the use of cannabis as a cancer cure generated 4.26 million engagements on social media. In contrast, accurate news generated only 0.036 million engagements. The recently released special Eurobarometer survey found 71% of respondents encounter fake news several times a month or more often. Unfortunately, due to the lack of understanding of the basic and/or the best available science, and the limited accessibility of credible information, a vast number of citizens are susceptible to disinformation.
+Vision
+The need to train future computer scientists to learn about the emergent problem of disinformation detection and analytics and the rich experience of our research team provide great opportunities to incorporate undergraduate students into ongoing research projects and related community efforts.
+Goal
+Our overarching goal is to train students to be independent, contributing, and functioning researchers. To achieve this goal, we will involve and challenge undergraduate students, particularly including members of underrepresented groups, as colleagues in ongoing graduate-level research topics and encourage them to pursue graduate study in STEM disciplines.
+Learn
+The concept of disinformation, its types, examples, and active research topics.
+Mainstream computational methods to detect disinformation on social media, including how to access, clean, preprocess, and visualize data and how to build analytical and predictive models using open source programming tools
+Important metrics to evaluate research results, compare baseline models, and produce preliminary results for publication quality research products.
+Essential research skills including brainstorming discussion, programming experiments, forensics, trial-and-error, technical writing, and research presentation.
+Qualification
+Currently enrolled in an undergraduate program
+Be a rising sophomore, junior, or senior
+Be a US citizen or permanent resident
+Preferred GPA 3.00 or higher
+All academic majors and disciplines will be considered, but preference will be given to those in Psychology, Engineering, or related fields.
+Must submit a resume/CV, cover letter (personal statement), transcripts, writing sample, and at least 1 letter of recommendation along with application.
+Requirements
+Research full time with faculty mentor for 10 weeks
+Attend weekly lectures/workshops and field trips
+Create a poster presentation at the conclusion of the summer

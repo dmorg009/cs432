@@ -1,0 +1,2 @@
+In this project for CS 725: Information Visualization, I used Vega-Lite and D3 to visualize data about graduate computer science programs (topics: gender, computing)
+Follow:

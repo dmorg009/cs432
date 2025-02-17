@@ -1,0 +1,17 @@
+Thank you for visiting my website. I am currently a Ph.D. candidate in the Department of Computer Science at Old Dominion University . I joined Web Science and Digital Libraries Research Group (WS-DL) under the supervision of Dr. Jian Wu in August 2019.
+My research project is mining book-length scholarly data, such as Electronic Theses and Dissertations (ETDs) using Artificial Intelligence techniques, including Natural Language Processing (NLP), Computer Vision (CV), Machine Learning, and Deep Learning. Besides WS-DL, I am also a member of Lab for Applied Machine Learning and Natural Language Processing Systems (LAMP-SYS) and a former executive member of Computer Science Graduate Society .
+I received my Bachelor's in Computer Engineering from Elizabethtown College in 2018. While studying at Elizabethtown College, I worked with Elizabethtown College Institutional Advancement as a Database Assistant. I also served the Department of Computer Science as a Teaching Assistant under the supervision of Dr. Joseph T. Wunderlich . Before joining ODU, I worked as an Application Performance Engineer at Resource9 Group, Inc. in New York. I was an executive member of the National Society of Black Engineers and a member of The National Society of Leadership and Success . I also received Sigma Pi Sigma from the American Honor Society in Physics and got awarded Dean's List Honor in 2016.
+Research Interest
+Digital Libraries, Scholarly Big Data, NLP, Computer Vision, Machine Learning, and Deep Learning.
+Technical Skills
+Programming: Python, SQL, PHP, C, HTML, CSS.
+Technologies/APIs: NLP Toolkit (e.g., NLTK , Stanza , Stanford CoreNLP ), Tensorflow, Keras, PyTorch, scikit-learn, pandas, numpy, etc.
+Database: MySQL, AWS S3, Microsoft SQL Server.
+            Development Tools: Anaconda, Jupyter Notebook, SVN, Git, Docker, AWS.
+Operating Systems: Linux, MacOS X, Windows Server.
+Recent News
+(May 7, 2023): I am excited to announce that my paper titled "ETDSuite: An Library for Mining Electronic Theses and Dissertations" is accepted by ACM/IEEE Joint Conference on Digital Libraries 2023 Doctoral Consortium (JCDL'23) .
+(April 20, 2023): I am honored to receive ACM SIGIR Travel Grant of $1,420 to present my paper at ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL'23) .
+(April 19, 2023): Our paper titled "A Study on Reproducibility and Replicability of Table Structure Recognition Methods" is accepted by International Conference on Document Analysis and Recognition 2023 (ICDAR'23) .
+(March 27, 2023): Our paper titled "MetaEnhance: Metadata Quality Improvement for Electronic Theses and Dissertations of University Libraries" is accepted by ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL'23) .
+Copyright © 2023 Muntabir Choudhury

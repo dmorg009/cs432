@@ -1,0 +1,12 @@
+Contact us
+DoD CIO Accessibility Statement
+The U.S. Department of Defense is committed to making its electronic and information technologies accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act (29 U.S.C. 794d), as amended in 1998. DoD websites use the WCAG 2.0 AA accessibility standard.
+DoD Digital Accessibility Officer Ms. Susan Jen Haggerty DOD CIO Section 508 Mailbox
+DoD Service and Component-specific Section 508 Program Managers are available on the General Services Administration website: https://www.section508.gov/tools/program-manager-listing/
+Reporting accessibility problems For persons with disabilities experiencing difficulties accessing content on a particular website, please use the form DoD Section 508 Form .  In this form, please indicate the nature of your accessibility issue/problem and your contact information so we can address your issue or question. If your issue involves log in access, password recovery, or other technical issues, contact the administrator for the website in question, or your local helpdesk.
+Formal complaints alleging a violation of Section 508 DoD does not have a department-wide policy or process for formal Section 508 complaints of discrimination.  If you wish to file such a complaint, please contact your component Office of Civil Rights or Equal Employment Opportunity office, or your component Disability Program Manager for instructions.
+Reasonable Accommodations DoD does not have a department-wide policy or process for Reasonable Accommodations.  If you are seeking a reasonable accommodation for a disability, contact your component Disability Program Manager. The DoD Computer/Electronic Accommodations Program (CAP) provides assessments for and equipment or licenses for assistive technologies for DoD employees.  CAP can be reached at: https://cap.mil/
+FCC TRS The Federal Communications Commission (FCC) Telecommunications Relay Service (TRS) is available here: https://www.fcc.gov/trs
+DoD Digital Accessibility Policy The DoD policy for digital accessibility is available at https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/840001_dodm_2017.pdf
+For more information about Section 508, please visit the DoD Section 508 page .
+Last Updated: 4/24/2024

@@ -1,0 +1,16 @@
+CS 725/825 - Information Visualization & Data Analytics
+Spring 2022: Tu 4:20-7pm, MGB 0127 and online via Zoom
+Class Resources at GitHub Syllabus (pdf) Slides
+Course Overview
+Catalog Description: This course covers the theory and application of information visualization and of visual analytics, the science of combining interactive visual interfaces and information visualization techniques with automatic algorithms to support analytical reasoning through human-computer interaction. Research on visual perception, cognition, interactive visual interfaces, and visual analytics will be covered. Practical techniques for the display of complex multivariate data will be addressed. Course projects will require the development of interactive web-based interfaces to analyze and visualize real-world datasets.
+Main Activities: During the semester, students will develop interactive visualizations using D3.js, read academic papers from IEEE VIS and other top visualization conferences, give class presentations on current topics in information visualization and visual analytics, and gain hands-on experience in visualizing real-world datasets.
+Sections
+This course will be delivered in a hybrid method, with one face-to-face section in a traditional classroom and several online sections available:
+CS 725 (MS) sections:
+CRN 32741 - in-person (MGB 0127)
+CRN 32751 - WC2 (in Hampton Roads or in Virginia)
+CRN 32754 - WC7 (in the US, but outside of Virginia)
+CS 825 (PhD) sections:
+CRN 32747 - in-person (MGB 0127)
+CRN 32757 - WC2 (in Hampton Roads or in Virginia)
+CRN 32761 - WC7 (in the US, but outside of Virginia)

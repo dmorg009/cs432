@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="author" content="Muntabir Choudhury">
+  <title>Muntabir Choudhury</title>
+  <link rel="stylesheet" type="text/css" href="website/website-mobile.css"/>
+  <link rel="stylesheet" type="text/css" href="website/website-desktop.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://kit.fontawesome.com/67defe236e.js" crossorigin="anonymous"></script>
+  <script src="https://vega.github.io/vega/vega.min.js"></script>
+</head>
+
+<body  onload="init()" onhashchange="showTab()">
+<div class="container">
+
+<div class="header">
+  <img id="backgroundimg" class="header-background" src="website/resources/images/background-image.jpg" alt="Header image: background-image">
+  <div class="background">
+    <div id="information" class="column">
+      <img id="profile" src="website/resources/images/MuntabirChoudhury.png" alt="Muntabir Choudhury profile image">
+      <div>
+        <h1>Muntabir Choudhury</h1>
+        <p>Old Dominion University</p>
+        <p> 
+          Computer Science
+          <span class="separator">|</span> 
+          Ph.D. Student
+          <span class="separator">|</span> 
+          Email:<a href="mailto:mchou001@odu.edu">mchou001@odu.edu</a>
+          <span class="separator">|</span>
+          <a href="./website/data/choudhury_CV.pdf" target="_blank">CV</a>
+          <span class="separator">|</span>
+          <a href="./website/data/resume.pdf" target="_blank">RESUME</a>
+        </p>
+      </div>
+    </div>
+    <div id="menu" class="column">
+      <span class="menuitem selected" onclick="openTab(event, 'About')">
+        <a class="link" href="./index.html">About</a>
+        <span class="fa fa-info-circle"></span>
+      </span>
+      <span class="menuitem" onclick="openTab(event, 'Projects')">
+        <a class="link" href="./projects.html">Projects</a>
+        <span class="fa fa-file-text"></span>
+      </span>
+      <span class="menuitem" onclick="openTab(event, 'Publications')">
+        <a class="link" href="./publications.html">Publications</a>
+        <span class="fa fa-book"></span>
+      </span>
+      <span class="menuitem" onclick="openTab(event, 'Experience')">
+        <a class="link" href="./experience.html">Experience</a>
+        <span class="fa fa-briefcase"></span>
+      </span>
+    </div>
+  </div>
+</div>
+
+<div class="body content" style="display: flex; flex-direction: column;">
+
+  <!-- *************************** About *************************** -->
+  <div class="main content" id="About">
+    <div style="margin-left: 2em"></div>
+    <div class="center">
+      <div id="aboutblock">
+        <div id="profileblock">
+          <img id="profile" src="website/resources/images/MuntabirChoudhury.png" alt="Muntabir Choudhury profile image">
+          <a href="https://www.linkedin.com/in/muntabirchoudhury/" target="_blank" class="fab fa-linkedin"></a>
+          <a href="https://github.com/choudhurym" target="_blank" class="fab fa-github"></a>
+          <a href="https://twitter.com/TasinChoudhury" target="_blank" class="fab fa-twitter"></a>
+          <a href="https://ws-dl.blogspot.com/search/label/MuntabirChoudhury" target="_blank" class="fab fa-blogger-b"></a> 
+          <a href="https://scholar.google.com/citations?user=HudTafsAAAAJ&hl=en" target="_blank" class="fab fa-google"></a>
+          <!--<a href="https://www.facebook.com/muntabirc" target="_blank" class="fab fa-facebook"></a>-->
+        </div>
+        <p id="objective">
+          Thank you for visiting my website. I am currently a Ph.D. candidate in the Department of Computer Science <a class="link" href="https://www.odu.edu/compsci/" target="_blank">at Old Dominion University</a>. I joined <a class="link" href="https://ws-dl.cs.odu.edu/" target="_blank">Web Science and Digital Libraries Research Group</a> (WS-DL) under the supervision of <a class="link" href="https://www.cs.odu.edu/~jwu/" target="_blank">Dr. Jian Wu</a> in August 2019.
+          <br><br>
+          My research project is mining book-length scholarly data, such as Electronic Theses and Dissertations (ETDs) using Artificial Intelligence techniques, including Natural Language Processing (NLP), Computer Vision (CV), Machine Learning, and Deep Learning. Besides WS-DL, I am also a member of <a class="link" href="https://github.com/lamps-lab" target="_blank">Lab for Applied Machine Learning and Natural Language Processing Systems</a> (LAMP-SYS) and a former executive member of <a class="link" href="https://odu.campusgroups.com/csgs/home/" target="_blank"> Computer Science Graduate Society</a>.  
+        </p>
+      </div>
+      <p id="background">
+        I received my Bachelor's in Computer Engineering from <a class="link" href="https://www.etown.edu/" target="_blank">Elizabethtown College</a> in 2018. While studying at Elizabethtown College, I worked with <a class="link" href="https://www.etown.edu/offices/advancement/index.aspx" target="_blank">Elizabethtown College Institutional Advancement</a> as a Database Assistant. I also served the Department of Computer Science as a Teaching Assistant under the supervision of <a class="link" href="http://users.etown.edu/w/wunderjt/" target="_blank">Dr. Joseph T. Wunderlich</a>. Before joining ODU, I worked as an Application Performance Engineer at <a class="link" href="http://resource9.us/" target="_blank"> Resource9 Group, Inc.</a> in New York. I was an executive member of the <a class="link" href="https://nsbe.org/home.aspx" target="_blank">National Society of Black Engineers</a> and a member of <a class="link" href="https://www.nsls.org/" target="_blank"> The National Society of Leadership and Success</a>. I also received Sigma Pi Sigma from the <a class="link" href="https://www.sigmapisigma.org/sigmapisigma" target="_blank"> American Honor Society in Physics</a> and got awarded Dean's List Honor in 2016.
+      </p>
+    
+    <!-- *************************** Research Interest *************************** -->
+      <div id="interest">
+        <table>
+        <tr>
+          <td>
+            <h4>Research Interest</h4>
+            Digital Libraries, Scholarly Big Data, NLP, Computer Vision, Machine Learning, and Deep Learning.
+          </td>
+        </tr>
+        </table>
+      </div>
+
+    <!-- *************************** Technical Skills *************************** -->
+      <div id="skills">
+        <table>
+        <tr>
+          <td>
+            <h4>Technical Skills</h4>
+            Programming: Python, SQL, PHP, C, HTML, CSS.<br>
+            Technologies/APIs: NLP Toolkit (e.g., <a class="link" href="https://www.nltk.org/" target="_blank">NLTK</a>, <a class="link" href="https://stanfordnlp.github.io/stanza/" target="_blank">Stanza</a>, <a class="link" href="https://stanfordnlp.github.io/CoreNLP/" target="_blank">Stanford CoreNLP</a>), Tensorflow, Keras, PyTorch, scikit-learn, pandas, numpy, etc.<br>
+            Database: MySQL, AWS S3, Microsoft SQL Server.
+            Development Tools: Anaconda, Jupyter Notebook, SVN, Git, Docker, AWS.<br>
+            Operating Systems: Linux, MacOS X, Windows Server. 
+          </td>
+        </tr>
+        </table>
+      </div>
+
+    <!-- *************************** Featured News *************************** -->
+      <div id ="news">
+        <table>
+        <tr>
+          <td>
+            <h4>Recent News</h4>
+            <ul>
+              <li>(May 7, 2023): I am excited to announce that my paper titled "ETDSuite: An Library for Mining Electronic Theses and Dissertations" is accepted by <a class="link" href="https://2023.jcdl.org/calls/dc/" target="_blank">ACM/IEEE Joint Conference on Digital Libraries 2023 Doctoral Consortium (JCDL'23)</a>.</li>
+              <li>(April 20, 2023): I am honored to receive <a class="link" href="https://sigir.org/general-information/travel-grants/" target="_blank">ACM SIGIR Travel Grant</a> of $1,420 to present my paper at <a class="link" href="https://2023.jcdl.org/" target="_blank">ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL'23)</a>.</li>
+              <li>(April 19, 2023): Our paper titled "A Study on Reproducibility and Replicability of Table Structure Recognition Methods" is accepted by <a class="link" href="https://icdar2023.org/submissions/call-for-papers/" target="_blank">International Conference on Document Analysis and Recognition 2023 (ICDAR'23)</a>.</li>
+              <li>(March 27, 2023): Our paper titled "MetaEnhance: Metadata Quality Improvement for Electronic Theses and Dissertations of University Libraries" is accepted by <a class="link" href="https://2023.jcdl.org/calls/papers/" target="_blank">ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL'23)</a>.</li>
+              <!--
+              <li>(April 26, 2022): I am pleased to announce that I received Outstanding Teaching Assistant Award from the Department of Computer Science.</li>
+              <li>(May 28, 2021): Our paper titled "Automatic Metadata Extraction Incorporating Visual Features from Scanned Electronic Theses and Dissertations" is accepted by <a class="link" href="https://2021.jcdl.org/" target="_blank">ACM/IEEE Joint Conference on Digital Libraries 2021</a>.</li>
+              <li>(May 14, 2021): I am pleased to announce that I accepted an internship offer from <a class="link" href="https://bihrle.com/" target="_blank">Bihrle Applied Research Inc. (BAR)</a>.</li>
+              <li>(July 29, 2020): I am excited to announce that I recieved <a class="link" href="https://www.odu.edu/compsci/scholarships-and-endowments/wahab-fellowship" target="_blank">2020 Hussein Abdel-Wahab Memorial Graduate Fellowship</a>.</li>
+              <li>(May 14, 2020): I am delighted to announce that I got accepted for <a class="link" href="https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/applied-machine-learning/index.php" target="_blank">Applied Machine Learning Summer Research  Fellowship 2020</a> at Los Alamos National Laboratory (LANL).</li>
+              <li>(April 29, 2020): Our paper for the poster titled "A Heuristic Baseline Method for Metadata Extraction from Scanned Electronic Theses and Dissertations" is accepted by <a class="link" href="http://2020.jcdl.org/" target="_blank">ACM/IEEE Joint Conference on Digital Libraries 2020</a>.</li> -->
+            </ul>
+          </td>
+        </tr>
+        </table>
+      </div>
+
+    <!-- *************************** Courses *************************** -->
+    <!-- 
+      <div id ="courses">
+        <table>
+        <tr>
+          <td>
+            <h4>Relevant Courses</h4>
+            <ul>
+              <li><a href="https://www.cs.odu.edu/~sampath/courses/f19/cs620/" target = "_blank">CS 620 - <em>Introduction to Data Science</em></a></li>
+              <li>CS 795 - <em>TPCS: Intelligent User Interface</em></li>
+              <li><a href="https://s3.amazonaws.com/blackboard.learn.xythos.prod/5a3434ca259b6/9005153?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27CS-600.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200530T060000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAIL7WQYDOOHAZJGWQ%2F20200530%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=976bd5449a14dfbc633c4a39d069634f407e2dde6719b0d411d43e56b1729704" target = "_blank">CS 600: <em>Algortihms and Data Structures</em></li>
+              <li><a href="https://www.cs.odu.edu/~mweigle/Main/ResearchMethods" target = "_blank">CS 800: <em>Research Methods</em></li>
+              <li><a href="https://www.cs.odu.edu/~jwu/downloads/teaching/cs-795-895-syllabus-2020-fall.pdf" target = "_blank">CS 895 - <em>Mining Scholarly Big Data</em></a></li>
+              <li>CS 822 - <em>Machine Learning</em></li>
+              <li>CS 834 - <em>Information Retrieval</em></li>
+              <li>CS 864 - <em>Blockchains and Cryptocurrencies</em></li>
+              <li>CS 665 - <em>Computer Architecture</em></li>
+            </ul>
+          </td>
+        </tr>
+        </table>
+      </div> -->
+
+    </div>
+    </div> 
+  </div>
+
+  <!-- *************************** Footer Information *************************** -->
+  <div id="footerContainer" style="background-color: lightgray;">
+    <div id="footer" style="font-size: 12px;">
+    	<!--<p style="float:right">Last Updated: 30 May, 2020</p>-->
+    	<p style="float:left">Copyright &copy; 2023 Muntabir Choudhury</p>
+    </div>
+  </div>
+  
+
+
+</div>
+</body>
+</html>

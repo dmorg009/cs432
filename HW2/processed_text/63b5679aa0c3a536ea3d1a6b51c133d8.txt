@@ -1,0 +1,20 @@
+Recent Publications
+Leah Prince and Michele C. Weigle, “Examining Engagement with Disinformation Accounts on Instagram Using Web Archives,” Technical report, Old Dominion University, January 2025.
+Jhon G. Botello, Lesley Frew, Jose J. Padilla, and Michele C. Weigle, “Exploring Large Language Models for Analyzing Changes in Web Archive Content: A Retrieval-Augmented Generation Approach,” In Proceedings of the 9th Computational Archival Science (CAS) Workshop. December 2024.
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, “Retrogressive Document Manipulation of US Federal Environmental Websites,” In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM). October 2024.
+Corren McCoy, Ross Gore, Michael L. Nelson, and Michele C. Weigle, “A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities,” Cybersecurity & Information Systems Information Analysis Center (CSIAC) Journal, October 2024.
+Christopher Rauch, Alex H. Poole, Travis Reid, Michele C. Weigle, Michael L. Nelson, Faryaneh Poursardar, and Mat Kelly, “Archiving Digital Marketing: Examining Preservation of Dynamic Content on the Web Through the Lens of Online Advertisements,” In Proceedings of the International Conference on Digital Preservation (iPRES). September 2024.
+Kritika Garg, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, “Some URLs Are Immortal, Most Are Ephemeral,” Poster presented at the International Conference on Digital Preservation (iPRES), September 2024.
+Vicky Rampin, Talya Cooper, Martin Klein, David Wilkinson, Lyudmila Balakireva, Emily Escamilla, David Calano, Michael L. Nelson, and Michele C. Weigle, “Using the CoSAI ecosystem to archive scholarly code with docs and discussions,” Demo presented at the International Conference on Digital Preservation (iPRES), September 2024.
+Christopher Rauch, Alex H. Poole, Travis Reid, Michele C. Weigle, Michael L. Nelson, and Mat Kelly, “Document Personalization Using Advertising Data,” Presented at the Annual Meeting of the Document Academy (DOCAM), September 2024.
+Christopher Rauch, Alex H. Poole, Travis Reid, Michael L. Nelson, Michele C. Weigle, Faryaneh Poursardar, and Mat Kelly, “Contextual Archiving of Web Page Advertisements Using Persona-Based Tools,” Lightning talk presented at the SAA Research Forum, August 2024.
+Michele C. Weigle, José Balsa-Barreiro, Nitesh V. Chawla, Tamas Dávid-Barrett, Maria Melchior, Virginia Pallante, Abeed Sarker, and Jason Gilliland, “Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data,” In Digital Ethology: Human Behavior in Geospatial Context. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024.
+Active Funding
+Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, Preserving Personalized Advertisements for More Accurate Web Archives , Aug 2024 - Jul 2026, IMLS National Leadership Grant, $398,926.90 ($198,793 to ODU) - blog post (Drexel)
+Erika Frydenlund (PI, VMASC), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Columbia), What’s Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments , Jul 2022 - Jul 2025, Department of Defense Minerva Research Initiative, $1,700,245 - blog post
+Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics , NSF REU Site (CNS 2149607), Mar 2022 - Feb 2025, $324,000.
+My full funding list is available in my CV .
+Service
+ODU-CS Assistant Chair for Graduate Programs and Research, 2024-present
+ODU-CS Graduate Program Director, 2013-2019, 2022-present
+Editorial Board

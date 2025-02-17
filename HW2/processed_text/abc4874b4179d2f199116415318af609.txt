@@ -1,0 +1,13 @@
+Home
+Bio:
+Justin F. Brunelle ( @justinfbrunelle ) is a graduate of Old Dominion University in the Computer Science Program .
+He graduated from Ocean Lakes High School in 2004 and from ODU in 2008 (BS), 2010 (MS), and 2016 (Ph.D.).
+Justin received his PhD under the direction of Dr. Michael Nelson. His dissertation ( defense slides ) studied JavaScript-dependent representations on the web and recommends a two-tiered crawling framework to 
+help expose more of their information and embedded resources to crawlers. Justin continues to participate in web science conferences and journals.
+Justin's spare time is filled with ODU athletic events, water sports, and spending time with his dog, 
+wife, and two sons (not in priority order). Justin is also the Cubmaster of Scouting America Pack 791 in Virginia Beach.
+An up-to-date official bio is available for use at speaking events.
+Current Work:
+Justin works as the Chief Scientist of the Software Engineering Innovation Center at The MITRE Corporation in Hampton, VA. Justin is responsible for the strategy, planning, quality, and execution of internal and external research for the Innovation Center's 500 employees. His personal research focuses on web science, AI/ML, and applied innovation in government domains.
+A one-page resume is available here, as well as a full CV here .
+Research Interests:

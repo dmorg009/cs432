@@ -1,0 +1,19 @@
+NASA Langley Research Center
+Jan 2019 - Current
+I work in the Autonomous Integrated Systems Research Branch (D-332) as a researcher pursuing studies in trust and explainability in artificial intelligence agents and in methods to achieve autonomy in In-Space Assembly operations.
+In particular, I currently serve as a principal investigator on a system that generates internal visual representations of targets derived from human provided natural language descriptions for Autonomous Flight Systems.
+I also serve as a technical lead for machine learning methods. I am currently focused on using Deep Reinforcement Learning Policy Optimization methods for Autonomous Systems Controls and Reasoning.
+Data Scientist
+NASA Langley Research Center
+Oct 2016 - Jan 2019
+In this role, I served as a data scientist on the Office of Chief Information Officer's Data Science team.
+My duties included acting as an analyst evaluating automation studies involving AI and Machine Learning, consulting on the design and use of deep learning architectures to meet the needs of stakeholders, evaluating data analysis tools, and developing new data science research.
+Graduate Research Assistant
+Los Alamos National Laboratory
+Jan 2015 - Oct 2016
+My time in the ISR division was spent doing software development for a joint DOE/USAF satellite package for Nuclear Non-proliferation Act Treaty verification.
+Graduate Research Assistant
+Los Alamos National Laboratory
+May 2014 - Jan 2015
+At HPC division I performed Hadoop administration, application development, systems integration, and performance evaluation of Amazon Web Services and Hadoop File System within petascale supercomputing environment.
+This involved parallel storage systems engineering and administration of Lustre and Scality file systems. I also did experimental software engineering, including research and development of a Parallel Data Movement as a Service system and designed and implementated an Inventory Database Application for the High Performance Computing division.

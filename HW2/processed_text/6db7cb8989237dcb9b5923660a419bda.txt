@@ -1,0 +1,5 @@
+Research
+Papers
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, “Retrogressive Document Manipulation of US Federal Environmental Websites,” In Proceedings of ACM Conference on Information and Knowledge Management (CIKM). October 2024.
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, “Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives,” In Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL). June 2023. Best Student Paper Award. ( arxiv pre-print , slides )
+Blog Posts

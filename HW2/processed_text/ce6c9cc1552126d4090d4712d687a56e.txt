@@ -1,0 +1,8 @@
+On line links and videos
+Movies and what-not in support of my PhD
+How DOs preservation copies are spread across a set of hosts (from a host's perspective).
+There are 1,000 DOs that desire to have at least 3 and no more than 5 preserved copies of themselves.  Each host can have at most 5 preservation copies, and an unlimited number of locally owned/supported DOs.  As each DO is added to the system, it is assigned to a host (a blue line going up) and (hopefully) a copy is preserved (red line going down).  Both DOs and copies appear to be spread across all hosts evenly randomly.
+How DOs preservation copies are spread across a set of hosts (from a node's perspective).
+There are 1,000 DOs that desire to have at least 3 and no more than 5 preserved copies of themselves. A "wandering" DO will make connections to "fixed" DOs and then attempt to preserve copies of itself on the hosts that those fixed nodes live on.  If the host has room available, then a copy will be preserved there.  If the host does not have room, then the "originators" of the preserved copies will be queried to see if they have met their minimum desired number of copies.  If the originator has met that minimum goal, then the originator will sacrifice one copy on that host to make room for the requesting DO.  The number of preservation copies that a DO can have will grow from 0 to the minimum and then drift from the minimum to the maximum.  The number of copies will never go back below the minimum.
+The results of different preservation policies on the same graph.
+Policy 1
