@@ -16,9 +16,9 @@ The amount was 445. No that number did not suprise me. Since the number of uris 
 
 # Q2
 
-TF = $\Large\frac{Total words in document}{Occurrences of 'Time' in document}$
+TF = $\Large\frac{\text{Total words in document}}{\text{Occurrences of ‘Time’ in document}}$
 
-IDF = log<sub>2</sub>($\Large\frac{Total number of documents}{Number of documents containing 'Time'}$)
+IDF = log<sub>2</sub>($\Large\frac{\text{Total number of documents}}{\text{Number of documents containing ‘Time’}}$)
 
 TF-IDF = TF \* IDF
 
@@ -110,9 +110,9 @@ _You must discuss in your report how you computed the values (especially IDF) an
 
 I used code to generate most of my values for me. Here are the formulas I used:
 
-TF = $\Large\frac{Total words in document}{Occurrences of 'Time' in document}$
+TF = $\Large\frac{\text{Total words in document}}{\text{Occurrences of ‘Time’ in document}}$
 
-IDF = log<sub>2</sub>($\Large\frac{Total number of documents}{Number of documents containing 'Time'}$)
+IDF = log<sub>2</sub>($\Large\frac{\text{Total number of documents}}{\text{Number of documents containing ‘Time’}}$)
 
 TF-IDF = TF \* IDF
 
